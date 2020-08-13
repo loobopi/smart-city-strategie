@@ -22,8 +22,9 @@ Der Input für die Strategie ist möglichst breit gefächert. Unter anderem sind
 Wir hoffen, die Strategie in einem kooperativen Prozess mit den verschiedenen beteiligten Akteuren verfassen zu können. Je mehr Menschen mitdenken und ihre Sicht einbringen, desto besser wird dieses Dokument am Ende werden. Aber: Beim Schreiben einer Strategie mit einer realistischen Chance auf Umsetzung gibt es Sachzwänge, Ressourcenmangel und die Notwendigkeit von guter Zusammenarbeit. Wenn ein Vorschlag den Förderbedingungen unseres Fördermitelgebers entgegen steht, werden wir ihn nicht aufnehmen können. Wenn die Mitarbeitenden einer Abteilung oder die BürgermeisterInnen des Bereichs, die für die Umsetzung verantwortlich sein wird, einen Vorschlag nicht mittragen können, werden wir ihn nicht aufnehmen können. Wenn die vorhandenen Mittel nicht ausreichen, um Vorschläge umzusetzen, werden wir sie nicht aufnehmen können. In letzter Instanz entscheidet der Gemeinderat der Stadt Ulm über die Verabschiedung der Strategie. 
 
 # Wie sieht die Timeline aus? 
-Vorläufig ist folgendes Vorgehen geplant (Work in Progress):
-2020
+Vorläufig ist folgendes Vorgehen geplant (Work in Progress):  
+
+* 2020
 * April-Juli: Erste Konsultation der Fachabteilungen; Vorstellung des Projekts; Abholen von Input
 * Juli-August: Erster Entwurf der Strategiekapitel 1&2
 * August-September: Feedback Strategiekapitel 1&2 über GitHub und zukunftsstadt-ulm.de 
@@ -32,8 +33,9 @@ Vorläufig ist folgendes Vorgehen geplant (Work in Progress):
 * Mitte Oktober: Fachbeirat spricht über Strategiekapitel 1&2 und Handlungsfelder
 * Ende Oktober: Feedback Handlungsfelder über GitHub und zukunftsstadt-ulm.de 
 * tbd: Beteiligungsveranstaltung zu Handlungsfeldern 
-* Dezember: Lenkungsgruppe mit allen Bürgermeistern berät über bisherigen Entwurf 
-2021
+* Dezember: Lenkungsgruppe mit allen Bürgermeistern berät über bisherigen Entwurf   
+
+* 2021
 * Umsetzungskonzept wird entwickelt
 * tbd: Weitere Beteiligungsmöglichkeiten für BürgerInnen und Fachabteilungen 
 * Oktober: Entscheidung des Gemeinderates über die Strategie 
