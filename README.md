@@ -12,11 +12,13 @@ Das Bundesministerium des Innern, für Bau und Heimat fördert in Zusammenarbeit
 
 ## Woher kommt der Input?
 Der Input für die Strategie ist möglichst breit gefächert. Unter anderem sind folgende Personen/ Institutionen eingebunden:
+* Die Ulmer BürgerInnen und lokale Akteure wie Vereine und Initiativen werden online und offline in verschiedenen Beteiligungsformaten einbezogen
+* Wir binden die Politik, beispielsweise unsere GemeinderätInnen, mit ein, die letzten Endes über die Verabschiedung der Strategie entscheiden
 * Wissenschaftliche Begleitforschung: Wir werden von drei Instituten begleitet, die uns mit Rat fachlicher Expertise zur Seite stehen und jeweils einen anderen Fokus einbringen. Das sind: Urban Catalyst für städtebauliche Fragen, das Wuppertal Institut für das Thema Nachhaltigkeit, und Fraunhofer IESE für Stadt/Land, Wissenstransfer und KPIs. 
 * Fachbeirat: ExpertInnen aus ganz Deutschland geben über den Fachbeirat Input für unseren Strategieprozess 
 * Lenkungsgruppe und Koordinierungsgruppe sind mit Schlüsselpersonen aus den unterschiedlichen Bereichen der Stadtverwaltung besetzt und treffen zum Teil die kurzfristigen Entscheidungen im Projekt. Über verschiedene andere Kanäle und Formate sind auch VerwaltungsmitarbeiterInnen unterhalb der Leitungsebene eingebunden und können Input geben. 
 * Die anderen Modellprojekte: Momentan gibt es in der aktuellen Förderstaffel 13 Modellprojekte in ganz Deutschland. Mit den KollegInnen der anderen Städte stehen wir im regelmäßigen Austausch und teilen Best und Worst Practice. 
-* ... 
+* ... last but not least: Die Textentwürfe werden von der Digitalen Agenda und unseren Projektpartnern von City&Bits verfasst
 
 ## Wer entscheidet? 
 Wir hoffen, die Strategie in einem kooperativen Prozess mit den verschiedenen beteiligten Akteuren verfassen zu können. Je mehr Menschen mitdenken und ihre Sicht einbringen, desto besser wird dieses Dokument am Ende werden. Aber: Beim Schreiben einer Strategie mit einer realistischen Chance auf Umsetzung gibt es Sachzwänge, Ressourcenmangel und die Notwendigkeit von guter Zusammenarbeit. Wenn ein Vorschlag den Förderbedingungen unseres Fördermitelgebers entgegen steht, werden wir ihn nicht aufnehmen können. Wenn die Mitarbeitenden einer Abteilung oder die BürgermeisterInnen des Bereichs, die für die Umsetzung verantwortlich sein wird, einen Vorschlag nicht mittragen können, werden wir ihn nicht aufnehmen können. Wenn die vorhandenen Mittel nicht ausreichen, um Vorschläge umzusetzen, werden wir sie nicht aufnehmen können. In letzter Instanz entscheidet der Gemeinderat der Stadt Ulm über die Verabschiedung der Strategie. 
