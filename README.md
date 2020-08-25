@@ -16,13 +16,7 @@ Zur Generierung dieser Webseite verwenden wir [Sphinx](https://pypi.org/project/
 pip install -r requirements.txt
 ```
 
-Die Webseite kann dann mit dem Befehl
-
-```
-sphinx-build -a -E -b html . ..\smart-city-strategie_html\
-```
-
-erstellt werden. 
+Die Webseite kann dann mit dem Befehl `sphinx-build -a -E -b html . ../smart-city-strategie_html/` (unter Windows Backslashes statt Slashes verwenden) bzw. mit den mitgelieferten Makefiles erstellt werden: `make html` unter GNU/Linux oder `make.bat html` unter Windows. 
 
 Wenn du einen Beitrag zum Smart City Strategie Projekt erstellen willst, würden wir uns freuen, wenn du wie folgt vorgehst: 
 
