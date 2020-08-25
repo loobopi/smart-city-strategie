@@ -16,13 +16,7 @@ Zur Generierung dieser Webseite verwenden wir [Sphinx](https://pypi.org/project/
 pip install -r requirements.txt
 ```
 
-Die Webseite kann dann mit dem Befehl
-
-```
-sphinx-build -a -E -b html . ..\smart-city-strategie_html\
-```
-
-erstellt werden. 
+Die Webseite kann dann mit dem Befehl `sphinx-build -a -E -b html . ../smart-city-strategie_html/` (unter Windows Backslashes statt Slashes verwenden) bzw. mit den mitgelieferten Makefiles erstellt werden: `make html` unter GNU/Linux oder `make.bat html` unter Windows. 
 
 Wenn du einen Beitrag zum Smart City Strategie Projekt erstellen willst, würden wir uns freuen, wenn du wie folgt vorgehst: 
 
@@ -52,7 +46,7 @@ Wir hoffen, die Strategie in einem kooperativen Prozess mit den verschiedenen be
 ## Wie sieht die Timeline aus? 
 Vorläufig ist folgendes Vorgehen geplant (Work in Progress):  
 
-* 2020
+### 2020
 * April-Juli: Erste Konsultation der Fachabteilungen; Vorstellung des Projekts; Abholen von Input
 * Juli-August: Erster Entwurf der Strategiekapitel 1&2
 * August-September: Feedback Strategiekapitel 1&2 über GitHub und zukunftsstadt-ulm.de 
@@ -63,7 +57,7 @@ Vorläufig ist folgendes Vorgehen geplant (Work in Progress):
 * tbd: Beteiligungsveranstaltung zu Handlungsfeldern 
 * Dezember: Lenkungsgruppe mit allen Bürgermeistern berät über bisherigen Entwurf   
 
-* 2021
+### 2021
 * Umsetzungskonzept wird entwickelt
 * tbd: Weitere Beteiligungsmöglichkeiten für BürgerInnen und Fachabteilungen 
 * Oktober: Entscheidung des Gemeinderates über die Strategie 
