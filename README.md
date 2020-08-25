@@ -4,6 +4,32 @@ Hier macht sich die Stadt Ulm auf den Weg, eine Smart City Strategie zu entwicke
 ## Ein paar Worte vorneweg...
 Das hier ist der Versuch, eine Strategie zu schreiben und den Entwicklungsprozess für alle Interessierten via GitHub zu öffnen. Wir probieren das zum ersten Mal, wir sind ein kleines Team - aber wir haben Lust auf die Diskussion hier. Also seht uns bitte nach, wenn etwas nicht perfekt funktioniert! Manöverkritik und Vorschläge zum Handling gerne ins Issue Manöverkritik.
 
+## Über die Verwendung von GitHub
+
+Das [GitHub-Verzeichnis zur "Smart City Strategie der Stadt Ulm"](https://github.com/stadtulm/smart-city-strategie) kann auch unter der folgenden Webadresse als gut les- und navigierbare Webseite abgerufen werden: 
+
+[https://smartcitystrategie.ulm.dev/](https://smartcitystrategie.ulm.dev/)
+
+Zur Generierung dieser Webseite verwenden wir [Sphinx](https://pypi.org/project/Sphinx/), [Sphinx-Book-Theme](https://github.com/executablebooks/sphinx-book-theme) und [MyST Parser](https://myst-parser.readthedocs.io/en/latest/#), die sich mit folgendem Befehl installieren lassen: 
+
+```
+pip install -r requirements.txt
+```
+
+Die Webseite kann dann mit dem Befehl
+
+```
+sphinx-build -a -E -b html . ..\smart-city-strategie_html\
+```
+
+erstellt werden. 
+
+Wenn du einen Beitrag zum Smart City Strategie Projekt erstellen willst, würden wir uns freuen, wenn du wie folgt vorgehst: 
+
+*...todo: Beschreibung, wo und wie ihr wünscht, dass Vorschläge gemacht werden (Struktur?, Verzeichnis/Kapitel?, Beispiel?, Wie soll Diskussion ablaufen?, ...) ...*
+
+
+
 ## Über Sinn und Zweck einer Smart City Strategie 
 Das Bundesministerium des Innern, für Bau und Heimat fördert in Zusammenarbeit mit der KfW Kommunen dabei, eine integrierte Smart City Strategie zu entwickeln, die bestehende Ansätze zur Digitalisierung bündelt, eine gemeinsames Verständnis und eine gemeinsame Zielrichtung der Akteure einer Stadtverwaltung schafft und aufzeigt, wo es in Zukunft hingehen soll. Durch die enge Verbindung von Digitalisierung und Stadtplanung/Städtebau sollen wichtige Zukunftsaufgaben bewältigt werden wie beispielsweise Nachhaltigkeit und Klimaschutz, Herausforderungen einer wachsenden Stadt und des sozialen Zusammenhalts. 
 * Also planen statt einfach machen? - Kommunen sind große Tanker, die etwas länger brauchen zum manövrieren. Corona hat uns gezeigt, dass wir diese Zeit aber nicht immer haben. Eine Strategie kan klarer machen, wohin es gehen soll, Entscheidungswege verkürzen und vor allem: Eine Stadt widerstandsfähiger gegen Krisen machen. 
