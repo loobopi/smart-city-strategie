@@ -22,7 +22,9 @@ Die Webseite kann dann mit dem Befehl `sphinx-build -a -E -b html . ../smart-cit
 
 Wenn du einen Beitrag zum Smart City Strategie Projekt erstellen willst, würden wir uns freuen, wenn du wie folgt vorgehst: 
 
-*...todo: Beschreibung, wo und wie ihr wünscht, dass Vorschläge gemacht werden (Struktur?, Verzeichnis/Kapitel?, Beispiel?, Wie soll Diskussion ablaufen?, ...) ...*
+•	Du hast einen konkreten Textvorschlag zu einem der Textbausteine der Strategie: Bringe deine Änderungen über einen Pull Request ein. Du kannst deinen Vorschlag in der Commit Message begründen.
+•	Du hast KEINEN konkreten Textvorschlag, aber eine Idee, eine Frage oder würdest gerne diskutieren: Bitte bezieh dich wenn möglich auf eine bestimmte Stelle im Strategietext und mach ein Issue auf bzw. schließe dich einem bestehenden Issue an.
+•	Du hast eine inhaltliche Nachfrage: Mache ein Issue auf oder kontaktiere uns per Mail über zukunftsstadt@ulm.de
 
 
 
