@@ -42,7 +42,24 @@ Der Input für die Strategie ist möglichst breit gefächert. Unter anderem sind
 * Fachbeirat: ExpertInnen aus ganz Deutschland geben über den Fachbeirat Input für unseren Strategieprozess 
 * Lenkungsgruppe und Koordinierungsgruppe sind mit Schlüsselpersonen aus den unterschiedlichen Bereichen der Stadtverwaltung besetzt und treffen zum Teil die kurzfristigen Entscheidungen im Projekt. Über verschiedene andere Kanäle und Formate sind auch VerwaltungsmitarbeiterInnen unterhalb der Leitungsebene eingebunden und können Input geben. 
 * Die anderen Modellprojekte: Momentan gibt es in der aktuellen Förderstaffel 13 Modellprojekte in ganz Deutschland. Mit den KollegInnen der anderen Städte stehen wir im regelmäßigen Austausch und teilen Best und Worst Practice. 
-* ... last but not least: Die Textentwürfe werden von der Digitalen Agenda und unseren Projektpartnern von City&Bits verfasst
+* ... last but not least: Die Textentwürfe werden von der Digitalen Agenda und unseren Projektpartnern von City&Bits verfasst  
+
+## Was kommt in die Strategie?  
+Die entstehende Smart City Strategie nimmt digitale Ansätze in insgesamt 12 Handlungsfeldern in den Blick:
+* 1. Mobilität   
+* 2. Kultur und Bildung   
+* 3. Rettung und Katastrophenschutz   
+* 4. Sicherheit im öffentlichen Raum+ Cybersicherheit   
+* 5. Städtebau, Gebäude und Wohnen   
+* 6. Umwelt und Klima   
+* 7. Energie   
+* 8. Versorgung & Entsorgung    
+* 9. Handel, Innenstadt und Tourismus   
+* 10. Wirtschaft und Forschung  
+* 11. Gesundheit, Pflege und Sport   
+* 12. Zusammenleben und Gesellschaft     
+
+Da wir (zum Glück) nicht alleine in der Stadtverwaltung sind, bemühen wir uns um eine gute Anschlussfähigkeit und Synergien mit anderen Bereichen und Abteilungen. Beispielsweise bestehen oder entstehen in Ulm verschiedenen Strategien zu Mobilität, zum Klimaschutz, zu Diversity etc. Bei allen diesen Themen gibt es Schnittmengen zu Digitalisierung und zur Smart City. Deshalb konzentrieren wir uns auf alles Digitale. Unser Thema sind zum Beispiel Klimasensoren, die Luftverschmutzung und weitere Faktoren erheben. Für die analogen Maßnahmen wie z.B. fürs Bäume pflanzen sind trotzdem unsere KollegInnen zuständig. Diese Abgrenzung wollen wir in der Smart City Strategie widerspiegeln. Also Sensoren rein - Bäume raus. Genau wie im Bereich Mobilität: Für die Radwege sind unsere KollegInnen zuständig. Wir schauen beispielsweise, wie die digitale Kommunikation zwischen E-Rollern und städtischer Planung funktionieren kann.   
 
 ## Wer entscheidet? 
 Wir hoffen, die Strategie in einem kooperativen Prozess mit den verschiedenen beteiligten Akteuren verfassen zu können. Je mehr Menschen mitdenken und ihre Sicht einbringen, desto besser wird dieses Dokument am Ende werden. Aber: Beim Schreiben einer Strategie mit einer realistischen Chance auf Umsetzung gibt es Sachzwänge, Ressourcenmangel und die Notwendigkeit von guter Zusammenarbeit. Wenn ein Vorschlag den Förderbedingungen unseres Fördermitelgebers entgegen steht, werden wir ihn nicht aufnehmen können. Wenn die Mitarbeitenden einer Abteilung oder die BürgermeisterInnen des Bereichs, die für die Umsetzung verantwortlich sein wird, einen Vorschlag nicht mittragen können, werden wir ihn nicht aufnehmen können. Wenn die vorhandenen Mittel nicht ausreichen, um Vorschläge umzusetzen, werden wir sie nicht aufnehmen können. In letzter Instanz entscheidet der Gemeinderat der Stadt Ulm über die Verabschiedung der Strategie. 
