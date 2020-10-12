@@ -22,9 +22,9 @@ Die Webseite kann dann mit dem Befehl `sphinx-build -a -E -b html . ../smart-cit
 
 Wenn du einen Beitrag zum Smart City Strategie Projekt erstellen willst, würden wir uns freuen, wenn du wie folgt vorgehst: 
 
-•	Du hast einen konkreten Textvorschlag zu einem der Textbausteine der Strategie: Bringe deine Änderungen über einen Pull Request ein. Du kannst deinen Vorschlag in der Commit Message begründen.
-•	Du hast KEINEN konkreten Textvorschlag, aber eine Idee, eine Frage oder würdest gerne diskutieren: Bitte bezieh dich wenn möglich auf eine bestimmte Stelle im Strategietext und mach ein Issue auf bzw. schließe dich einem bestehenden Issue an.
-•	Du hast eine inhaltliche Nachfrage: Mache ein Issue auf oder kontaktiere uns per Mail über zukunftsstadt@ulm.de
+* Du hast einen konkreten Textvorschlag zu einem der Textbausteine der Strategie: Bringe deine Änderungen über einen Pull Request ein. Du kannst deinen Vorschlag in der Commit Message begründen.  
+* Du hast KEINEN konkreten Textvorschlag, aber eine Idee, eine Frage oder würdest gerne diskutieren: Bitte bezieh dich wenn möglich auf eine bestimmte Stelle im Strategietext und mach ein Issue auf bzw. schließe dich einem bestehenden Issue an.  
+* Du hast eine inhaltliche Nachfrage: Mache ein Issue auf oder kontaktiere uns per Mail über zukunftsstadt@ulm.de
 
 
 
@@ -51,15 +51,9 @@ Wir hoffen, die Strategie in einem kooperativen Prozess mit den verschiedenen be
 Vorläufig ist folgendes Vorgehen geplant (Work in Progress):  
 
 ### 2020
-* April-Juli: Erste Konsultation der Fachabteilungen; Vorstellung des Projekts; Abholen von Input
-* Juli-August: Erster Entwurf der Strategiekapitel 1&2
-* August-September: Feedback Strategiekapitel 1&2 über GitHub und zukunftsstadt-ulm.de 
-* August-September: Erster Entwurf der Handlungsfelder
-* Anfang Oktober: Fachabteilungen bekommen Handlungsfelder zum Gegenlesen
-* Mitte Oktober: Fachbeirat spricht über Strategiekapitel 1&2 und Handlungsfelder
-* Ende Oktober: Feedback Handlungsfelder über GitHub und zukunftsstadt-ulm.de 
-* tbd: Beteiligungsveranstaltung zu Handlungsfeldern 
-* Dezember: Lenkungsgruppe mit allen Bürgermeistern berät über bisherigen Entwurf   
+* August-September: Feedback Strategiekapitel 1&2 über GitHub 
+* Oktober - Dezember: Handlungsfelder werden nach und nach in GitHub eingebracht
+* Dezember: Lenkungsgruppe mit allen Bürgermeistern berät über bisherigen Entwurf  
 
 ### 2021
 * Umsetzungskonzept wird entwickelt
