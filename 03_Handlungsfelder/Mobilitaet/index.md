@@ -1,5 +1,5 @@
 # Mobilität  
-## 1. Herauforderungen (für Ulm spezifisch)  
+## Herauforderungen (für Ulm spezifisch)  
 Menschen und Güter zu bewegen und Distanzen zu überbrücken - das sind zentrale Ermöglichungsaufgaben einer Stadt, die wächst und durch große Infrastrukturprojekte näher an die umliegenden Metropolen heranrückt. Dabei steht Ulm zusätzlich vor der Aufgabe, die außergewöhnlichen Herausforderungen des Oberzentrums für eine Region erfüllen zu müssen.  
 
 Regionale Zusammenarbeit, eine vielfältige Akteurslandschaft, ein System von wettbewerblichen und staatlichen Strukturen müssen in einem heute schon ausgeprägt heterogenen komplexen System neu ausgerichtet, neu gedacht werden und sind vernetzter und vielfältiger. Dabei sind die Kommunen als Wirtschaftsstandort, als Aufgabenträger in Nahverkehr, als Infrastrukturgarant, als kommunale Selbstverwaltung, in Teilen als Eigentümer von Stadtwerken und damit als zentraler Akteur im System in eine ungewöhnliche Aufbruchstimmung mit hohen Erwartungshaltungen versetzt. Stichworte wie Mobilitätswende, Energiewende und Klimawandel stehen für den teils grundlegenden Veränderungsdruck in einem heterogenen komplexen und hochpolitischen System.   
@@ -26,7 +26,7 @@ Dabei ist es wichtig zu beachten, in der Akteurslandschaft ist die Stadt als Obe
 
 Deshalb gilt es, herauszufinden, wie digitale Lösungen helfen können und mit welchen Leitgedanken die Rolle als Innovator und Ermöglicher gefunden und ausgefüllt werden kann. Dies konkret für Ulm im Sinne eines "Ulmer Modells" aber auch als Beispiel für viele Städte mit ähnlichen Rahmenbedingungen und Herausforderungen.   
 
-## 2. Leitinien  
+## Leitinien  
 Die Herausforderungen sind gerade im Bereich Mobilität vielfältig und komplex. In der Smart City Strategie nimmt der Themenbereich daher eine besondere Rolle ein. Dabei sollen weniger konkrete Maßnahmen und politische Ziele im Fokus stehen, sondern vielmehr Leitlinien für den zukunftsweisenden Umgang mit dem Thema Mobilität allgemein in der Stadt Ulm beschrieben werden.  
 
 Die Leitlinien stellen eine digitale Infrastruktur in den Mittelpunkt, die die gegenwärtige Lage widerspiegelt und realen, analogen Dingen in der Stadt wie Bürgersteigen, Straßen, Schienen, Brücken, Schildern, Luftraum und unterirdischem Raum eine digitale Identität verleiht. Die Verwendung von Code und Sensorik eröffnet Möglichkeiten, den öffentlichen Raum zu erfassen, zu koordinieren und zu verwalten.  
@@ -57,7 +57,7 @@ Ziel ist es, dass auf die Vielzahl von Angeboten und Services, möglichst einfac
 
 Bedarfsorientierte Angebote zur geteilten (Sharing) Mobilität und Mobilität als Service (MAAS) sind:  Einheitliche Plattformen, Zugänge und Informationsbereitstellung, gemeinsame Entwicklung und Vermarktung von Mobilitätsangeboten der Stadt Ulm und dem Alb-Donau-Kreis.  
 
-## 3. Projekte: 
+## Projekte
 **SWU 2Go: Car Sharing**  - ein emissionsfreies Car-Sharing-Programm   
 
 **Parkraummanagement**  -  u.a. Behindertenparkplätze mit Sensorik  
