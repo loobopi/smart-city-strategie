@@ -8,6 +8,8 @@ maxdepth: 2
 ---
 Gesundheit_und_Pflege/index.md
 Handel_Innenstadt_und_Tourismus/index.md
+Kultur_und_Bildung/kultur.md
+Kultur_und_Bildung/bildung.md
 Mobilitaet/index.md
 Rettung_und_Katastrophenschutz/index.md
 Sicherheit/index.md
