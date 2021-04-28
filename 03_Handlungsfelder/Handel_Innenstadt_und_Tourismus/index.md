@@ -97,22 +97,22 @@ Ausschlaggebend für die erfolgreiche Entwicklung der Innenstadt wird am Ende ni
 [^6]: Ulm Touristik GmbH 2020  
 [^7]: IHK: Einzelhandelskompendium 2018  
 [^8]: Smart City Fachbeirat Ulm, 10/2020  
-[^9]: https://www.handelsblatt.com/technik/digitale-revolution/augmented-reality-augmented-reality-erlebt-den-durchbruch-und-macht-das-smartphone-zur-virtuellen-umkleidekabine-/26584004.html  
+[^9]: [https://www.handelsblatt.com/technik/digitale-revolution/augmented-reality-augmented-reality-erlebt-den-durchbruch-und-macht-das-smartphone-zur-virtuellen-umkleidekabine-/26584004.html](https://www.handelsblatt.com/technik/digitale-revolution/augmented-reality-augmented-reality-erlebt-den-durchbruch-und-macht-das-smartphone-zur-virtuellen-umkleidekabine-/26584004.html)  
 [^10]: Ulmer City Marketing, 10/2020  
 [^11]: Digitalisierungszentrum Ulm, 10/2020  
 [^12:]: Ulm Touristik GmbH, 10/2020  
 [^13]: Ulm Touristik GmbH, 10/2020  
-[^14]: https://www.outletcity.com/de/metzingen/  
+[^14]: [https://www.outletcity.com/de/metzingen/](https://www.outletcity.com/de/metzingen/)  
 [^15]: https://ulmercity.de/  
 [^16]: Ulmer City Marketing, 10/2020  
-[^17]: https://ulmerleben.de/  
-[^18]: https://www.mein-wochenmarkt.online/  
-[^19]: https://ulm-isst.de/  
-[^20]: https://www.osnabruecker-land.de/blog/hasewelle-indoor-surfen/  
-[^21]: https://www.future-history.eu/de  
-[^22]: https://www.ulm.de/tourismus/ulm-stories/birdly-ulm-stories  
+[^17]: [https://ulmerleben.de/](https://ulmerleben.de/)  
+[^18]: [https://www.mein-wochenmarkt.online/](https://www.mein-wochenmarkt.online/)  
+[^19]: [https://ulm-isst.de/](https://ulm-isst.de/)  
+[^20]: [https://www.osnabruecker-land.de/blog/hasewelle-indoor-surfen/](https://www.osnabruecker-land.de/blog/hasewelle-indoor-surfen/)  
+[^21]: [https://www.future-history.eu/de](https://www.future-history.eu/de)  
+[^22]: [https://www.ulm.de/tourismus/ulm-stories/birdly-ulm-stories](https://www.ulm.de/tourismus/ulm-stories/birdly-ulm-stories)  
 [^23]: Innenstadtdialog/ GD 100/20 vom 14.10.2020  
-[^24]: https://www.thuega.de/stadtwerke-der-zukunft/thuega-reallabor-testet-klimastrasse-in-koblenz/  
-[^25]: https://www.smarter-together.eu/projects/smart-neighbourhood-lab-munich  
-[^26]: https://www.iao.fraunhofer.de/de/presse-und-medien/aktuelles/parkplaetze-fuer-logistik-clever-nutzen.html  
+[^24]: [https://www.thuega.de/stadtwerke-der-zukunft/thuega-reallabor-testet-klimastrasse-in-koblenz/](https://www.thuega.de/stadtwerke-der-zukunft/thuega-reallabor-testet-klimastrasse-in-koblenz/)  
+[^25]: [https://www.smarter-together.eu/projects/smart-neighbourhood-lab-munich](https://www.smarter-together.eu/projects/smart-neighbourhood-lab-munich)  
+[^26]: [https://www.iao.fraunhofer.de/de/presse-und-medien/aktuelles/parkplaetze-fuer-logistik-clever-nutzen.html](https://www.iao.fraunhofer.de/de/presse-und-medien/aktuelles/parkplaetze-fuer-logistik-clever-nutzen.html)  
 

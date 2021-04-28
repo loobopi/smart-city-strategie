@@ -60,11 +60,11 @@ Darüber hinaus sind eine verständliche Wissenschaftskommunikation und ein Aust
   
   [^7]: Guthold, Regina; Stevens, Gretchen A.; Riley, Leanne M.; Bull, Fiona C., 2020: Global trends in insufficient physical activity among adolescents. In: The Lancet Child & Adolescent Health 4 (1), S. 23–35.
   
-  [^8]: Zahn, Mathias (22.11.2019): Weltweite WHO-Studie: Jugendliche bewegen sich zu wenig. Tagesschau. https://www.tagesschau.de/jugendliche-bewegung-101.html [11.11.2020].
+  [^8]: Zahn, Mathias (22.11.2019): Weltweite WHO-Studie: Jugendliche bewegen sich zu wenig. Tagesschau. [https://www.tagesschau.de/jugendliche-bewegung-101.html](https://www.tagesschau.de/jugendliche-bewegung-101.html) [11.11.2020].
   
   [^9]: Wiegerling, Klaus, 2013: Ubiquitous Computing. In: Armin Grunwald (Hg.): Handbuch Technikethik. Stuttgart, Weimar: Verlag J. B. Metzler, S. 374–378.
   
- [^10]: Caritas, 2019: Sozialpolitische Positionen. https://www.caritas.de/magazin/kampagne/sozial-braucht-digital/hintergrund/sozialpolitische-forderungen [11.11.2020].
+ [^10]: Caritas, 2019: Sozialpolitische Positionen. [https://www.caritas.de/magazin/kampagne/sozial-braucht-digital/hintergrund/sozialpolitische-forderungen](https://www.caritas.de/magazin/kampagne/sozial-braucht-digital/hintergrund/sozialpolitische-forderungen) [11.11.2020].
  
  [^11]: Rocha, Pacheco et al., 2019: Smart Cities and Healthcare: A Systematic Review. In: Technologies 7 (3). Darauf verweist auch der aktuelle Ulmer Seniorenbericht, der den Aspekt der technischen Unterstützungssysteme ebenso wie das Thema Digitalisierung daher erst im nächsten Seniorenbericht aufgreift (vgl. Senio-renbericht der Stadt Ulm 2018, S. 9).
  
@@ -82,13 +82,13 @@ Darüber hinaus sind eine verständliche Wissenschaftskommunikation und ein Aust
  
  [^18]: Stadt Ulm, Fachbereich Bildung und Soziales, 23.02.2018: Anlage 2 zu GD 081/18.
  
- [^19]: Donau Running: https://www.donaurunning.de/ |11.11.2020].
+ [^19]: Donau Running: [https://www.donaurunning.de/](https://www.donaurunning.de/) |11.11.2020].
  
  [^20]: Kalinowski, Jakub, 2016: The Power of Small Data to Make Kids Healthier and Cities Smarter. In: Smart Cities & Sport (Hg.): Healthy Cities, S. 16–23.
  
  [^21]: Schrader, Henrik; Wetterich, Jörg, 2016: Sport und Bewegung in Ulm. Abschlussbericht zur kommunalen Sportentwicklungsplanung. Hg. v. Institut für Kooperative Planung und Sportentwicklung (ikps). Stuttgart, S. 143–150.
  
- [^22]: LoRaPark Ulm, 2020: https://sensoren.lorapark.de/14 [11.11.2020].
+ [^22]: LoRaPark Ulm, 2020: [https://sensoren.lorapark.de/14](https://sensoren.lorapark.de/14) [11.11.2020].
  
  [^23]:   Marckmann, Georg, 2020: Ethische Fragen von Digital Public Health. In: Bundesgesundheitsblatt - Gesundheitsforschung - Gesund
  
