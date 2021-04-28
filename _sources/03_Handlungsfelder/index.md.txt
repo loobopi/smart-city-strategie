@@ -6,6 +6,7 @@ Dieses Kapitel ist Work in Progress. Wirf einen Blick in die Timeline im README 
 ---
 maxdepth: 2
 ---
+Energie/index.md
 Gesundheit_und_Pflege/index.md
 Handel_Innenstadt_und_Tourismus/index.md
 Kultur_und_Bildung/kultur.md
