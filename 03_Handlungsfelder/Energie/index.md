@@ -38,38 +38,40 @@ Die Installation von Smart Grids zielt darauf (3) **alle Akteure des Energiesyst
 
 Um die Quartiers- und Gebäude-Ebene stärker miteinzubeziehen wäre es denkbar im Rahmen verschiedenen partizipativen Leuchtturmprojekten einen (4) **stakeholderübergreifenden und plattformgestützten Dialog** zu fördern und den städtischen Energieverbrauch mithilfe entsprechender **Mess- und Regelungstechnik** dezentraler und demokratischer zu gestalten. Ein solcher Ansatz passt zu den Ulmer Werten, die auf selbstbewusste und engagierte Bürger setzen (s. 2.4). Das Projektteam „Energie aus Bürgerhand“ der lokalen agenda 21 könnte sich der Idee annehmen und Microgrids in Quartieren voranbringen. Microgrids sind Energiesysteme, die aus miteinander verbundenen Lasten und verteilten Energieressourcen bestehen, die als ein integriertes System innerhalb einer definierten elektrischen Grenze arbeiten können. Da dieser Ansatz Kontrolle über unser Elektrizitätssystem auf den Endverbraucher gibt, ist er geeignet beispielsweise für (autarke) Quartiere oder Gewerbegebiete. Um ein solches Projekt umzusetzen, eignet sich die Zusammenarbeit mit der Smart Grid Forschungsgruppe an der Technischen Hochschule Ulm, sowie die Orientierung an den international prämierten Best-Practice-Beispielen der Leuchtturmprojekte „Grow Smarter“ (Smart City Stockholm 2020) und „WIR“ (Landkreis Oberallgäu 2020).
 
-[^1]: https://www.bund.net/ressourcen-technik/suffizienz/suffizienz-was-ist-das/
+[^1]: [https://www.bund.net/ressourcen-technik/suffizienz/suffizienz-was-ist-das/](https://www.bund.net/ressourcen-technik/suffizienz/suffizienz-was-ist-das/)
 
 ### Literatur
 
 Literatur
-BSI (2020): Smart-Meter-Gateway. Dreh- und Angelpunkt des intelligenten Messsystems. Bundesamt für Sicherheit und Informationstechnik. Abrufbar unter: https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/SmartMeter/SmartMeterGateway/smartmetergateway_node.html (letzter Aufruf 15.01.2021).
+BSI (2020): Smart-Meter-Gateway. Dreh- und Angelpunkt des intelligenten Messsystems. Bundesamt für Sicherheit und Informationstechnik. Abrufbar unter: [https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/SmartMeter/SmartMeterGateway/smartmetergateway_node.html](https://www.bsi.bund.de/DE/Themen/DigitaleGesellschaft/SmartMeter/SmartMeterGateway/smartmetergateway_node.html) (letzter Aufruf 15.01.2021).
 
 HINTEMANN, R. (2020): Rechenzentren 2018: Effizienzgewinne reichen nicht aus: Energiebedarf der Rechenzentren steigt weiter deutlich an - Wachstumsschub durch Cloud Computing. Borderstep Institute for Innovation and Sustainability. 
 
 ISEK (2019): Entwicklungsperspektiven für die Stadt Ulm. Integriertes Stadtentwicklungskonzept Ulm (ISEK). 2. Auflage, Stadt Ulm.
 
-Landkreis Oberallgäu (2020): Gemeinde Wildpoldsried. Das Energiedorf im Allgäu. Ein ganzes Dorf macht Klimaschutz. Landkreis Oberallgäu. Abrufbar unter: https://www.allgaeu-klimaschutz.de/wildpoldsried.html (letzter Aufruf 15.01.2021).
+Landkreis Oberallgäu (2020): Gemeinde Wildpoldsried. Das Energiedorf im Allgäu. Ein ganzes Dorf macht Klimaschutz. Landkreis Oberallgäu. Abrufbar unter: [https://www.allgaeu-klimaschutz.de/wildpoldsried.html](https://www.allgaeu-klimaschutz.de/wildpoldsried.html) (letzter Aufruf 15.01.2021).
 
-LUBW (2020): Energieatlas Baden-Württemberg. Landesanstalt für Umwelt Baden-Württemberg. Abrufbar unter: https://www.energieatlas-bw.de/energieatlas (letzter Aufruf 15.01.2021).
+LUBW (2020): Energieatlas Baden-Württemberg. Landesanstalt für Umwelt Baden-Württemberg. Abrufbar unter: [https://www.energieatlas-bw.de/energieatlas](https://www.energieatlas-bw.de/energieatlas) (letzter Aufruf 15.01.2021).
 
 PETERS, W., SCHICKETANZ, S., HANUSCH, M., ROHR, A., KOTHE, M. u. P. KINAST (2015): Räumlich differenzierte Flächenpotentiale für erneuerbare Energien in Deutschland.
 
 Bundesministerium für Verkehr und digitale Infrastruktur, BMVI-Online Publikation, Nr. 08/2015.
 
-RUF, H. u. P. KOBER (2019): Projekthaus Ulm - Sektorkopplung mit Elektromobilität. Robert Bosch Schule, Version 1.00. Abrufbar unter: https://www.unw-ulm.de/wp-content/uploads/2020/01/PHU_EMob_Abschlussbericht.pdf (letzter Aufruf: 04.02.2021).
+RUF, H. u. P. KOBER (2019): Projekthaus Ulm - Sektorkopplung mit Elektromobilität. Robert Bosch Schule, Version 1.00. Abrufbar unter: [https://www.unw-ulm.de/wp-content/uploads/2020/01/PHU_EMob_Abschlussbericht.pdf](https://www.unw-ulm.de/wp-content/uploads/2020/01/PHU_EMob_Abschlussbericht.pdf) (letzter Aufruf: 04.02.2021).
 
 SCHNEIDEWIND, U. (2017): Die große Transformation. Die Einführung in die Kunst des gesellschaftlichen Wandels. WIEGANDT, K. u. H. WELZER (Hrsg.): Forum für junge Verantwortung. Fischer Taschenbuch, 2. Edition, Frankfurt am Main.
 
-Smart City Stockholm (2020): Lighthouse city: Stockholm. Grow Smarter. Abrufbar unter: https://grow-smarter.eu/lighthouse-cities/stockholm/ (letzter Aufruf 15.01.2021).
+Smart City Stockholm (2020): Lighthouse city: Stockholm. Grow Smarter. Abrufbar unter: [https://grow-smarter.eu/lighthouse-cities/stockholm/](https://grow-smarter.eu/lighthouse-cities/stockholm/) (letzter Aufruf 15.01.2021).
 
-Stadt Ulm (2019): Erneuerbare-Energien-Wärmegesetz (Bundesgesetz). Anforderungen für Neubauten nachweisen. Stadt Ulm, abrufbar unter: https://www.ulm.de/global/datenpool/dienstleistungen/erneuerbare-energien-wärmegesetz-(bundesgesetz)-anforderungen-für-neubauten-nachweisen (letzter Aufruf 15.01.2021).
+Stadt Ulm (2019): Erneuerbare-Energien-Wärmegesetz (Bundesgesetz). Anforderungen für Neubauten nachweisen. Stadt Ulm, abrufbar unter: [https://www.ulm.de/global/datenpool/dienstleistungen/erneuerbare-energien-wärmegesetz-(bundesgesetz)-anforderungen-für-neubauten-nachweisen](https://www.ulm.de/global/datenpool/dienstleistungen/erneuerbare-energien-wärmegesetz-(bundesgesetz)-anforderungen-für-neubauten-nachweisen) (letzter Aufruf 15.01.2021).
 
-SWU (2020): Digitale Zähler. Zählerwechsel. Abrufbar unter: https://www.ulm-netze.de/leistungen/privatkunden/digitale-zaehler (letzter Aufruf: 04.02.2021)
-STAKIC D. u. G. KLEISER (2016): Abschlussbericht VuNdieRdEine Datenakquise zum technischen Potenzial für einVirtuelles Kraftwerk in Ulm. Hochschule Ulm. Abrufbar unter: https://www.unw-ulm.de/wp-content/uploads/2016/09/Abschlu
-ssbericht_Versorgungssicherheit-und-Netzstabilit%C3%A4t-durch-intelligente-Regelung-dezentraler-Anlagen-in-Ulm.pdf (letzter Aufruf 04.03.2021).
+SWU (2020): Digitale Zähler. Zählerwechsel. Abrufbar unter: [https://www.ulm-netze.de/leistungen/privatkunden/digitale-zaehler](https://www.ulm-netze.de/leistungen/privatkunden/digitale-zaehler) (letzter Aufruf: 04.02.2021)
 
-SWT (2020): Klimaneutrales Trinkwasser für Trier. Stadtwerke Trier. Abrufbar unter: https://www.swt.de/p/CO2_freies_Trinkwasser_für_Trier-5-7330.html (letzter Aufruf 15.01.2021).
+STAKIC D. u. G. KLEISER (2016): Abschlussbericht VuNdieRdEine Datenakquise zum technischen Potenzial für einVirtuelles Kraftwerk in Ulm.
+
+Hochschule Ulm. Abrufbar unter: [https://www.unw-ulm.de/wp-content/uploads/2016/09/Abschlussbericht_Versorgungssicherheit-und-Netzstabilit%C3%A4t-durch-intelligente-Regelung-dezentraler-Anlagen-in-Ulm.pdf](https://www.unw-ulm.de/wp-content/uploads/2016/09/Abschlussbericht_Versorgungssicherheit-und-Netzstabilit%C3%A4t-durch-intelligente-Regelung-dezentraler-Anlagen-in-Ulm.pdf) (letzter Aufruf 04.03.2021).
+
+SWT (2020): Klimaneutrales Trinkwasser für Trier. Stadtwerke Trier. Abrufbar unter: [https://www.swt.de/p/CO2_freies_Trinkwasser_für_Trier-5-7330.html](https://www.swt.de/p/CO2_freies_Trinkwasser_für_Trier-5-7330.html) (letzter Aufruf 15.01.2021).
 
 WBGU (2019): Hauptgutachten. Unsere gemeinsame digitale Zukunft. Wissenschaftlicher Beirat der Bundesregierung Globale Umweltveränderungen, Berlin. 
 
