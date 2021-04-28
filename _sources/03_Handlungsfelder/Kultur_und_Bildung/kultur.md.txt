@@ -55,7 +55,7 @@ Digitalisierung ist für die Kultur und Kulturvermittlung in Ulm eine Chance den
 
 [^2]: Kulturbericht 2019, S.3.
 
-[^3]: Computerspiele sind Kulturgut. Siehe auch:  https://www.kulturrat.de/themen/kulturgut-computerspiele/kulturgut-computerspiele/ letzter Zugriff am 20.02.2021.
+[^3]: Computerspiele sind Kulturgut. Siehe auch:  [https://www.kulturrat.de/themen/kulturgut-computerspiele/kulturgut-computerspiele/](https://www.kulturrat.de/themen/kulturgut-computerspiele/kulturgut-computerspiele/) letzter Zugriff am 20.02.2021.
 
 [^4]: Benjamin, Walter. „Das Kunstwerk im Zeitalter seiner technischen Reproduzierbarkeit“ 1939, zit. Nach edition suhrkamp (Frankfurt a.M., 1977) S. 25.
 

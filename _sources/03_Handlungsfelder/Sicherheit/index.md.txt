@@ -62,7 +62,7 @@ Auch in diesem Bereich der Sicherheit ist die Bandbreite wichtiger Zukunftsproje
 
  [^1]: Agentur der EU für Cybersicherheit (ENISA), ENISA Threat Landscape Report, 2019.  
  [^2]: Bundeskriminalamt, Sonderauswertung Cybercrime in Zeiten der Corona-Pandemie, 2020.  
- [^3]: Mitgehbörse Ulm, Startseite der Mitgehbörse Ulm 2020, abgerufen unter: https://www.mitgehboerse-ulm.de/, am 13.11.2020.   
- [^4]: Universitätsstadt Marburg, Startseite der Universitätsstadt Marburg 2020, abgerufen unter: https://www.marburg.de/portal/meldungen/-lisa-staerkt-dassicherheitsgefueh-900006875-23001.html, am 13.11.2020. 
+ [^3]: Mitgehbörse Ulm, Startseite der Mitgehbörse Ulm 2020, abgerufen unter: [https://www.mitgehboerse-ulm.de/](https://www.mitgehboerse-ulm.de/), am 13.11.2020.   
+ [^4]: Universitätsstadt Marburg, Startseite der Universitätsstadt Marburg 2020, abgerufen unter: [https://www.marburg.de/portal/meldungen/-lisa-staerkt-dassicherheitsgefueh-900006875-23001.html](https://www.marburg.de/portal/meldungen/-lisa-staerkt-dassicherheitsgefueh-900006875-23001.html), am 13.11.2020. 
 
 

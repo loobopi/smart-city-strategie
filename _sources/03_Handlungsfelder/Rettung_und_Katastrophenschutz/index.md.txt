@@ -39,7 +39,7 @@ Eine qualitativ hochwertige Erfassung und Auswertung von Daten führt zur zielge
 
 Der zunehmende Einsatz von Technologie in den Bereichen der Wasser- und Stromversorgung sowie der Abfallwirtschaft steigert auch den Umfang kritischer Infrastruktur und somit den Anspruch an dessen Schutz im Rahmen des Katastrophenschutzes  . Hierbei hat der Kompetenzaufbau in diesem Bereich oberste Priorität. Zum Schutz vor Cyberangriffen auf kritische Infrastrukturen mehr im Handlungsfeld „Sicherheit“.
 
-[^1]: Traumateam 2019, abgerufen unter: https://traumateam.de/1-447-einsaetze-in-2019/, am 29.10.2020.  
+[^1]: Traumateam 2019, abgerufen unter: [https://traumateam.de/1-447-einsaetze-in-2019/](https://traumateam.de/1-447-einsaetze-in-2019/), am 29.10.2020.  
 [^2]: Stadt Ulm, Feuerwehr und Katastrophenschutz, Jahresbericht 2018.  
-[^3]: Deutsche Traumastiftung 2020, abgerufen unter: https://www.deutsche-traumastiftung.de/, am 29.10.2020.  
+[^3]: Deutsche Traumastiftung 2020, abgerufen unter: [https://www.deutsche-traumastiftung.de/](https://www.deutsche-traumastiftung.de/), am 29.10.2020.  
 [^4]: Handreichung-klimawandel-in-staedten-2019.pdf, S. 17, 2019.
