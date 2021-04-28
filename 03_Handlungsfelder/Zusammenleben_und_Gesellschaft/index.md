@@ -64,17 +64,17 @@ In Summe führen diese Maßnahmen, gestützt durch die Digitalisierung, zu einer
  [^5]: Globale Nachhaltigkeitsstrategie der Bundesregierung, 2020, Abgerufen unter https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/nachhaltigkeitsziele-verstaendlich-erklaert-232174 am 08.10.2020  
  [^6]: GD 319-20, 2020: Diversityentwicklung in Ulm - Team "Chancengerechtigkeit und Vielfalt  
  [^7]: GD 339-19, 2019: Rahmendrucksache zum raumbezogenen Engagement der Abteilung Soziales in den Sozialräumen und in den Quartieren  
- [^8]: Schultz, Stefan; Spiegel Kultur 2019, abgerufen un-ter: https://www.spiegel.de/kultur/gesellschaft/  zukunftsanalyse-nach-jane-loevinger-weg-vom-leistungsideal-a-1248816.html am 08.10.2020  
- [^9]: commumo - digitale Kluft - digital divide, 2019, abgerufen unter: https://commumo.com/dt_portfolios/  digitale-kluft-digital-divide/ am 09.10.2020  
- [^10]: https://www.uni-ulm.de/fileadmin/website_uni_ulm/jubilaeum50/Aktuelles/Netiquette.pdf  
- [^11]: Klicksafe 2020, abgerufen unter: https://www.klicksafe.de/themen/kommunizieren/ am 08.10.2020  
- [^12]: Vgl. AOK Bundesverband (2019): Arbeiten im Homeoffice: Höhere Arbeitszufriedenheit, aber stärkere psychische Belastungen. (Online unter: https://www.aok-bv.de/presse/pressemitteilungen/2019/index_22652.html, Abruf 28.08.2020)  
- [^13]: Vgl. https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Gesundheitspersonal/_inhalt.html, abgerufen am 17.12.2020   
+ [^8]: Schultz, Stefan; Spiegel Kultur 2019, abgerufen unter: [https://www.spiegel.de/kultur/gesellschaft/zukunftsanalyse-nach-jane-loevinger-weg-vom-leistungsideal-a-1248816.html](https://www.spiegel.de/kultur/gesellschaft/zukunftsanalyse-nach-jane-loevinger-weg-vom-leistungsideal-a-1248816.html) am 08.10.2020  
+ [^9]: commumo - digitale Kluft - digital divide, 2019, abgerufen unter: [https://commumo.com/dt_portfolios/digitale-kluft-digital-divide/](https://commumo.com/dt_portfolios/digitale-kluft-digital-divide/) am 09.10.2020  
+ [^10]: [https://www.uni-ulm.de/fileadmin/website_uni_ulm/jubilaeum50/Aktuelles/Netiquette.pdf](https://www.uni-ulm.de/fileadmin/website_uni_ulm/jubilaeum50/Aktuelles/Netiquette.pdf)  
+ [^11]: Klicksafe 2020, abgerufen unter: [https://www.klicksafe.de/themen/kommunizieren/](https://www.klicksafe.de/themen/kommunizieren/) am 08.10.2020  
+ [^12]: Vgl. AOK Bundesverband (2019): Arbeiten im Homeoffice: Höhere Arbeitszufriedenheit, aber stärkere psychische Belastungen. (Online unter: [https://www.aok-bv.de/presse/pressemitteilungen/2019/index_22652.html](https://www.aok-bv.de/presse/pressemitteilungen/2019/index_22652.html), Abruf 28.08.2020)  
+ [^13]: Vgl. [https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Gesundheitspersonal/_inhalt.html](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Gesundheitspersonal/_inhalt.html), abgerufen am 17.12.2020   
  [^14]: Laufzeit verlängert nach GD 234-20 vom 08.10.2020  
- [^15]: Angebote unter:https://verschwoerhaus.de/das-verschwoerhaus/   
- [^16]: Abgerufen unter https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/lokale-agenda-ulm-21/  lokale-agenda-ulm-21 am 09.11.2020.  
+ [^15]: Angebote unter: [https://verschwoerhaus.de/das-verschwoerhaus/](https://verschwoerhaus.de/das-verschwoerhaus/)   
+ [^16]: Abgerufen unter [https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/lokale-agenda-ulm-21/](https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/lokale-agenda-ulm-21/)  lokale-agenda-ulm-21 am 09.11.2020.  
  [^17]: Stadt Ulm, Digitale Agenda, 2020: Broschüre Digitale Stadt Ulm, S. 23  
- [^18]: https://www.ulm.de/aktuelle-meldungen/zda/zs_2005_eroeffnung_kreativraum  
+ [^18]: [https://www.ulm.de/aktuelle-meldungen/zda/zs_2005_eroeffnung_kreativraum](https://www.ulm.de/aktuelle-meldungen/zda/zs_2005_eroeffnung_kreativraum)  
  [^19]: Stadt Ulm, Digitale Agenda, 2020: Broschüre Digitale Stadt Ulm, S. 55  
  [^20]: Stadt Ulm, 2019: Integriertes Stadtentwicklungskonzept der Stadt Ulm (ISEK), S. 121  
  [^21]: Vgl. Konzept Ulm: internationale Stadt, Stadt Ulm, S.9  
