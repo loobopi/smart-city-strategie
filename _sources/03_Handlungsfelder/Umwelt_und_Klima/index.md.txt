@@ -48,18 +48,18 @@ GD 438/18: Stadtklimatologische Untersuchung. Abschlussbericht. SUB, Stadtplanun
 
 Guenduez, A., Mettler, T. u. K. Schedler (2017): Smart Government – Partizipation und Empowerment der Bürger im Zeitalter von Big Data und personalisierter Algorithmen. In: HMD Praxis der Wirtschaftsinformatik(link is external), Springer, Vol. 54, S. 477–487.
 
-HGWK (2017): Hochwassergefahrenkarten Baden-Württemberg. Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg. Abrufbar unter: https://www.hochwasser.baden-wuerttemberg.de/hochwassergefahrenkarten (letzter Aufruf 27.10.2020).
+HGWK (2017): Hochwassergefahrenkarten Baden-Württemberg. Ministerium für Umwelt, Klima und Energiewirtschaft Baden-Württemberg. Abrufbar unter: [https://www.hochwasser.baden-wuerttemberg.de/hochwassergefahrenkarten](https://www.hochwasser.baden-wuerttemberg.de/hochwassergefahrenkarten) (letzter Aufruf 27.10.2020).
 
 Logitek (2014): Smart Blog: Smart irrigation in Barcelona: introducing the new system.
-Abrufbar unter: https://www.creatingsmartcities.es/blog/en/smart-irrigation-barcelona-smartcity/ (letzter Aufruf 27.10.2020).
+Abrufbar unter: [https://www.creatingsmartcities.es/blog/en/smart-irrigation-barcelona-smartcity/](https://www.creatingsmartcities.es/blog/en/smart-irrigation-barcelona-smartcity/) (letzter Aufruf 27.10.2020).
 
 ISEC (2019): Entwicklungsperspektiven für die Stadt Ulm. Integriertes Stadtentwicklungskonzept Ulm (ISEC). 2. Auflage, Stadt Ulm.
 
 Larte, S., Leroux, P., Coenen, T., Braem, B., Ballon, P., u. P. Demeester (2016): City of Things: an Integrated and Multi-Technology. Testbed for IoT Smart City Experiments. Conference Paper, Smart Cities Conference (ISC2), IEEE International.
 
-Lorapark (2020): Ein Experimentierfeld für Privatpersonen, Wirtschaft und Wissenschaft. Abrufbar unter: https://lorapark.de/ (letzter Aufruf 21.12.2020).
+Lorapark (2020): Ein Experimentierfeld für Privatpersonen, Wirtschaft und Wissenschaft. Abrufbar unter: [https://lorapark.de/](https://lorapark.de/) (letzter Aufruf 21.12.2020).
 
-LUBW (2018): FLIWAS 3 - Das Flutinformations- und Warnsystem. Landesanstalt für Umwelt Baden-Württemberg. Abrufbar unter: https://www.lubw.baden-wuerttemberg.de/umwelt
+LUBW (2018): FLIWAS 3 - Das Flutinformations- und Warnsystem. Landesanstalt für Umwelt Baden-Württemberg. Abrufbar unter: [https://www.lubw.baden-wuerttemberg.de/umwelt](https://www.lubw.baden-wuerttemberg.de/umwelt)
 informationssystem/fliwas-3 (letzter Aufruf 27.10.2020).
 
 Madakam, S.  u. R. Ramachandran (2015): Barcelona Smart City: The Heaven on Earth Barcelona Smart City: The Heaven on Earth (Internet of Things: Technological God). In: ZTE Communication, Special Topic, Vol. 12, No. 3, S. 3-9.
@@ -70,24 +70,22 @@ Quoika, S. u. J. Wald (2020): Einsatz eines digitalen Informationssystems für d
 
 Regierungspräsidium Stuttgart (2020): Luftreinhalteplan für den Regierungsbezirk Stuttgart Teilplan Heilbronn. 2. Fortschreibung des Luftreinhalteplans zur Minderung der NO2-Belastung. Regierungspräsidium Stuttgart, Referat 54.1 Industrie Schwerpunkt Luftreinhaltung, Stuttgart.
 
-Stadt Ulm (2020a). Hochwasser. Hochwassergefahrenkarten. Stadtplanung, Umwelt, Baurecht - Umweltrecht und Gewerbeaufsicht, Stadt Ulm. Abrufbar unter: https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/wasser/hochwasser (letzter Aufruf 27.10.2020).
+Stadt Ulm (2020a). Hochwasser. Hochwassergefahrenkarten. Stadtplanung, Umwelt, Baurecht - Umweltrecht und Gewerbeaufsicht, Stadt Ulm. Abrufbar unter: [https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/wasser/hochwasser](https://www.ulm.de/leben-in-ulm/umwelt-energie-entsorgung/wasser/hochwasser) (letzter Aufruf 27.10.2020).
 
-Stadt Ulm (2020b): Hochbeete mit Sensoren - Smart Urban Gardening. Stadt Ulm. Abrufbar unter: https://www.zukunftsstadt-ulm.de/eselsberg/smart-urban-gardening (letzter Aufruf 27.10.2020).
+Stadt Ulm (2020b): Hochbeete mit Sensoren - Smart Urban Gardening. Stadt Ulm. Abrufbar unter: [https://www.zukunftsstadt-ulm.de/eselsberg/smart-urban-gardening](https://www.zukunftsstadt-ulm.de/eselsberg/smart-urban-gardening) (letzter Aufruf 27.10.2020).
 
-Stadt Ulm (2020c): Luftqualitäts- und Klimadatenmessung. Stadt Ulm. Abrufbar unter: https://www.zukunftsstadt-ulm.de/eselsberg/luft-und-klimamessungen (letzter Aufruf 28.10.2020).
+Stadt Ulm (2020c): Luftqualitäts- und Klimadatenmessung. Stadt Ulm. Abrufbar unter: [https://www.zukunftsstadt-ulm.de/eselsberg/luft-und-klimamessungen](https://www.zukunftsstadt-ulm.de/eselsberg/luft-und-klimamessungen) (letzter Aufruf 28.10.2020).
 
-Stadt Wien (2019): Die Zieglergasse wird zur „Kühlen Meile“. Stadt Wien. Abrufbar unter: https://www.wien.gv.at/bezirke/neubau/umwelt/kuehlemeile.html (letzter Aufruf 27.10.2020).
+Stadt Wien (2019): Die Zieglergasse wird zur „Kühlen Meile“. Stadt Wien. Abrufbar unter: [https://www.wien.gv.at/bezirke/neubau/umwelt/kuehlemeile.html](https://www.wien.gv.at/bezirke/neubau/umwelt/kuehlemeile.html) (letzter Aufruf 27.10.2020).
 
 Thieken, A., Dierck, J., Dunst, L., Göpfert, C., Heidenreich, A., Hetz, K., Kern, J., Kern, K., Lipp, T., Lippert, C., Meves, M., Niederhanfer, S., Otto, A., Rohrbacher, C., Schmidt, K., Strate, L., Stump, I. u. A. Walz (2018): Urbane Resilienz gegenüber extremen Wetterereignissen – Typologien und Transfer von Anpassungsstrategien in kleinen Großstädten und Mittelstädten (ExTrass). Universität Potsdam.
 
-UBA (2019a): Wirkungen auf die Gesundheit. Umweltbundesamt. Abrufbar unter: https://www.
-umweltbundesamt.de/themen/luft/wirkungen-von-luftschadstoffen/wirkungen-auf-die-gesundheit#aussenluft (letzter Aufruf 27.10.2020).
+UBA (2019a): Wirkungen auf die Gesundheit. Umweltbundesamt. Abrufbar unter: [https://www.umweltbundesamt.de/themen/luft/wirkungen-von-luftschadstoffen/wirkungen-auf-die-gesundheit#aussenluft](https://www.umweltbundesamt.de/themen/luft/wirkungen-von-luftschadstoffen/wirkungen-auf-die-gesundheit#aussenluft) (letzter Aufruf 27.10.2020).
 
-UBA (2019b): Rebound-Effekte. Umweltbundesamt. Abrufbar unter: https://www.umweltbundesamt.
-de/themen/abfall-ressourcen/oekonomische-rechtliche-aspekte-der/rebound-effekte (letzter Aufruf 27.10.2020).
+UBA (2019b): Rebound-Effekte. Umweltbundesamt. Abrufbar unter: [https://www.umweltbundesamt.de/themen/abfall-ressourcen/oekonomische-rechtliche-aspekte-der/rebound-effekte](https://www.umweltbundesamt.de/themen/abfall-ressourcen/oekonomische-rechtliche-aspekte-der/rebound-effekte) (letzter Aufruf 27.10.2020).
 
 Veenhoff, S., Koller, M., Kristof, K u. E. Hagenah  (2019): Digitalisierung nachhaltig gestalten Ein Impulspapier des Umweltbundesamtes. Umweltbundesamt, Dessau. 
 
-Weiland, U. (2018): Stadt im Klimawandel. Bundeszentrale für politische Bildung. Abrufbar unter: https://www.bpb.de/politik/innenpolitik/stadt-und-gesellschaft/216883/stadt-im-klimawandel (letzter Aufruf 27.10.2020).
+Weiland, U. (2018): Stadt im Klimawandel. Bundeszentrale für politische Bildung. Abrufbar unter: [https://www.bpb.de/politik/innenpolitik/stadt-und-gesellschaft/216883/stadt-im-klimawandel](https://www.bpb.de/politik/innenpolitik/stadt-und-gesellschaft/216883/stadt-im-klimawandel) (letzter Aufruf 27.10.2020).
 
 Wybrands, M. (2019):  Literaturanalyse von Anwendungsfällen, Technologien und Datenquellen  im Kontext Wasserinfrastruktur in Smart Cities. In: Marx, J., Solsbach, A., Klenke, T., Wohlegemuth, V. (Hrsg.): Smart Cities/Smart Regions – Technische, wirtschaftliche und gesellschaftliche Innovationen. Konferenzband zu den 10. BUIS-Tagen. Springer Vieweg, Wiesbaden, S. 69-84.
