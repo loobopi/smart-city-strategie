@@ -16,6 +16,7 @@ Rettung_und_Katastrophenschutz/index.md
 Sicherheit/index.md
 Städtebau_Gebäude_Wohnen/index.md
 Umwelt_und_Klima/index.md
+Ver_und_Entsorgung/index.md
 Wirtschaft_Forschung_und_Entwicklung/index.md
 Zusammenleben_und_Gesellschaft/index.md
 ```
