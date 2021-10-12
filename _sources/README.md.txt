@@ -8,7 +8,7 @@ Das hier ist der Versuch, eine Strategie zu schreiben und den Entwicklungsprozes
 
 Das [GitHub-Verzeichnis zur "Smart City Strategie der Stadt Ulm"](https://github.com/stadtulm/smart-city-strategie) kann auch unter der folgenden Webadresse als gut les- und navigierbare Webseite abgerufen werden: 
 
-[https://smartcitystrategie.ulm.dev/](https://smartcitystrategie.ulm.dev/)
+[https://stadtulm.github.io/smart-city-strategie/](https://stadtulm.github.io/smart-city-strategie/)
 
 Zur Generierung dieser Webseite verwenden wir [Sphinx](https://pypi.org/project/Sphinx/), [Sphinx-Book-Theme](https://github.com/executablebooks/sphinx-book-theme) und [MyST Parser](https://myst-parser.readthedocs.io/en/latest/#), die sich mit folgendem Befehl installieren lassen: 
 
