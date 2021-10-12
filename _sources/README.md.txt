@@ -1,7 +1,7 @@
-# Zur interaktiven Kurzfassung: https://smartcitystrategie.ulm.de/
+# Zur [interaktiven Kurzfassung](https://smartcitystrategie.ulm.de/)
 
 # Smart City Strategie der Stadt Ulm
-Zwischen 2020 und 2021 hat Ulm im Rahmen des Förderprojektes Ulm4CleverCity eine Smart City Strategie für die Stadt entwickelt. Die Inhalte der Strategie gibt es als interaktive Kurzfassung und hier auf GitHub als ausführliche Langfassung. 
+Zwischen 2020 und 2021 hat Ulm im Rahmen des Förderprojektes Ulm4CleverCity eine Smart City Strategie für die Stadt entwickelt. Die Inhalte der Strategie gibt es als interaktive Kurzfassung unter [https://smartcitystrategie.ulm.de/](https://smartcitystrategie.ulm.de/) und hier auf GitHub als ausführliche Langfassung. 
 
 ## Über die Verwendung von GitHub
 
