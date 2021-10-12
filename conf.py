@@ -49,6 +49,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'venv']
 
 # -- Options for HTML output -------------------------------------------------
 
+html_baseurl = "https://stadtulm.github.io/smart-city-strategie/"
+
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
