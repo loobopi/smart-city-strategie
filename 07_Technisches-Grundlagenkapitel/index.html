@@ -1,0 +1,524 @@
+
+
+<!DOCTYPE html>
+
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Technisches Grundlagenkapitel &#8212; Smart City Strategie, Stadt Ulm</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
+    <link href="../_static/css/index.css" rel="stylesheet">
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/sphinx-book-theme.css" type="text/css" />
+<style>
+	.full-screen-button { display: none; }
+</style>
+    <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
+    <script src="../_static/jquery.js"></script>
+    <script src="../_static/underscore.js"></script>
+    <script src="../_static/doctools.js"></script>
+    <script src="../_static/sphinx-book-theme.js"></script>
+    <script src="../_static/sphinx-book-theme.js"></script>
+    <script src="../_static/translations.js"></script>
+    <link rel="canonical" href="https://stadtulm.github.io/smart-city-strategie/07_Technisches-Grundlagenkapitel/index.html" />
+    <link rel="index" title="Stichwortverzeichnis" href="../genindex.html" />
+    <link rel="search" title="Suche" href="../search.html" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="docsearch:language" content="en">
+
+
+<!-- Opengraph tags -->
+<meta property="og:url"         content="https://stadtulm.github.io/smart-city-strategie/07_Technisches-Grundlagenkapitel/index.html" />
+<meta property="og:type"        content="article" />
+<meta property="og:title"       content="Technisches Grundlagenkapitel" />
+<meta property="og:description" content="Technisches Grundlagenkapitel  Um die Smart City Strategie erfolgreich umzusetzen und die gesteckten Ziele zu erreichen ist es notwendig, technische Grundlagen " />
+
+
+<meta name="twitter:card" content="summary" />
+
+
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+<a class="navbar-brand text-wrap" href="../index.html">
+  
+  
+  <h1 class="site-logo" id="site-title">Smart City Strategie, Stadt Ulm</h1>
+  
+</a>
+</div>
+
+<form class="bd-search d-flex align-items-center" action="../search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Strategie durchsuchen" aria-label="Strategie durchsuchen" autocomplete="off" >
+</form>
+
+<nav class="bd-links" id="bd-docs-nav" aria-label="Main navigation">
+  <ul class="nav sidenav_l1">
+ <li class="toctree-l1">
+  <a class="reference internal" href="../01_Intro/index.html">
+   Intro
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../02_Unsere-Ausgangslage-und-Herausforderungen/index.html">
+   Unsere Ausgangslage und Herausforderungen
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../03_Strategieprozess-und-Vorgehen/index.html">
+   Strategieprozess und Vorgehen: Wie die Strategie entstand
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../04_Ulmer-Verstaendnis-einer-Smart-City/index.html">
+   Ulmer Verständnis einer Smart City - Ulmer Vision und Ziele
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../05_Zielbilder-fuer-die-Zukunftsaufgaben/index.html">
+   Zielbilder für die Zukunftsaufgaben - Was wir im Fokus haben
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../06_Handlungsfelder/index.html">
+   Handlungsfelder: Wo wirkt die smarte Stadt
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="../08_Organisatorisches-Grundlagenkapitel/index.html">
+   Organisatorisches Grundlagenkapitel
+  </a>
+ </li>
+</ul>
+
+</nav>
+
+ <!-- To handle the deprecated key -->
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="row topbar fixed-top container-xl">
+    <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show">
+    </div>
+    <div class="col pl-2 topbar-main">
+        
+        <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+            data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+            aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+            title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+            <i class="fas fa-bars"></i>
+            <i class="fas fa-arrow-left"></i>
+            <i class="fas fa-arrow-up"></i>
+        </button>
+        
+        <div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="../_sources/07_Technisches-Grundlagenkapitel/index.md.txt"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+            onClick="window.print()" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+    
+</div>
+        <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/stadtulm/smart-city-strategie"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        <a class="issues-button"
+            href="https://github.com/stadtulm/smart-city-strategie/issues/new?title=Issue%20on%20page%20%2F07_Technisches-Grundlagenkapitel/index.html&body=Your%20issue%20content%20here."><button
+                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
+                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
+        
+    </div>
+</div>
+
+
+        <!-- Full screen (wrap in <a> to have style consistency -->
+        <a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+                data-placement="bottom" onclick="toggleFullScreen()" title="Fullscreen mode"><i
+                    class="fas fa-expand"></i></button></a>
+
+        <!-- Launch buttons -->
+
+    </div>
+
+    <!-- Table of contents -->
+    <div class="d-none d-md-block col-md-2 bd-toc show">
+        <div class="tocsection onthispage pt-5 pb-3">
+            <i class="fas fa-list"></i> Contents
+        </div>
+        <nav id="bd-toc-nav">
+            <ul class="nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#infrastrukturelle-grundlagen-fur-die-smart-city">
+   Infrastrukturelle Grundlagen für die Smart City
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#sensorik-aktorik">
+     Sensorik &amp; Aktorik
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#ubertragung-netze">
+     Übertragung/Netze
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#status-quo-und-weiterentwicklung">
+     Status quo und Weiterentwicklung
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#dateninfrastruktur-in-der-smart-city">
+   Dateninfrastruktur in der Smart City
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#datenplattform">
+     Datenplattform
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#status-quo-und-weiterentwicklung-des-datenhubs-zur-vollumfanglichen-dateninfrastruktur">
+     Status quo und Weiterentwicklung des Datenhubs zur vollumfänglichen Dateninfrastruktur
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#datenspezifische-ziele-und-datenexzellenz">
+   Datenspezifische Ziele und Datenexzellenz
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#datenspezifische-ziele-leitlinien">
+     Datenspezifische Ziele &amp; Leitlinien
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#datenexzellenz">
+     Datenexzellenz
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#id6">
+     Status quo und Weiterentwicklung
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#urban-data-governance">
+   Urban Data Governance
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#aufbau-der-data-governance">
+     Aufbau der Data Governance
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#geschafts-betreibermodelle">
+     Geschäfts-/Betreibermodelle
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#id7">
+     Status quo und Weiterentwicklung
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#zusammenfassung-der-umsetzungsmasznahmen-in-der-2-phase-ab-2022">
+   Zusammenfassung der Umsetzungsmaßnahmen in der 2. Phase ab 2022
+  </a>
+ </li>
+</ul>
+
+        </nav>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+        
+              <div>
+                
+  <div class="section" id="technisches-grundlagenkapitel">
+<h1>Technisches Grundlagenkapitel<a class="headerlink" href="#technisches-grundlagenkapitel" title="Link zu dieser Überschrift">¶</a></h1>
+<p>Um die Smart City Strategie erfolgreich umzusetzen und die gesteckten Ziele zu erreichen ist es notwendig, technische Grundlagen zu schaffen, die eine stabile Basis der fortwährenden Entwicklung sicherstellen. Bereits während der Strategiephase wurden neue Herausforderungen deutlich, die der technologische Wandel mit sich bringt. Zusätzlich zeigt die Ausgestaltung der Handlungsfelder den Bedarf auf, die technische Infrastruktur für die nächsten Jahre zu aktualisieren. Die technischen Grundlagen bilden die notwendige Basis, Maßnahmen erfolgreich umzusetzen und letztendlich die Zielerreichung sicherzustellen.</p>
+<p>Digitale Infrastrukturen sollen in Zukunft grundsätzlich als Teil der Daseinsvorsorge begriffen werden. Daraus folgt, dass sie im Besitz der öffentlichen Hand sein sollten. Mit der Nutzung entsprechender Netze (Mobilfunk, Kabel, Glasfaser usw.) können dann Private beauftragt werden. Auch bei der Auswahl von digitalen Produkten und Dienstleistungen sollten die Nachhaltigkeit und digitale Verantwortlichkeit im Besonderen berücksichtigt werden. Auch Städte sollten die Potentiale von Daten selbst nutzen, um die Nachhaltigkeit zu forcieren, unsere Lebensqualität zu verbessern und unsere demokratischen Gesellschaften weiterzuentwickeln. Durch die Schaffung von „Europäischen Datenräumen“ können Big Data-Analysen auch in der EU und vor dem Hintergrund eines EU-weiten Wertekanons entstehen und gefördert werden. Eine Beteiligung von Kommunen an den Gaia X Aktivitäten kann daher sinnvoll und ergänzend sein.</p>
+<p>Ausgangspunkt dieser technischen Grundlage bildet die Infrastruktur in Form von Sensorik und Aktorik sowie der notwendigen Übertragungstechnologien. Diese bilden einen fundamentalen Bestandteil städtischer Digitalisierungsaktivitäten, indem sie Datenerhebung und -übertragung im Bereich des Internets der Dinge (IoT) grundsätzlich überhaupt ermöglichen. Daten werden auf Serverinfrastrukturen gespeichert. Hafen und Anlaufstelle bildet hierbei eine Datenplattform: der Datenhub Ulm. Dieser soll im Rahmen der Umsetzung weiter technisch ausgebaut werden, um neue Services zu ermöglichen und weitere Datenbestände anzubinden. Wichtig im Umgang mit entstehenden Daten ist es, datenspezifische Ziele und Leitlinien zu entwickeln (Datenstrategie), um weiterhin einen sicheren Umgang mit den neuartigen und teils sensiblen Daten zu gewährleisten. Grundlage bildet hier das Datenethikkonzept. Diese Datenstrategie wird letztlich über die Urban Data Governance gesteuert, welche vor allem unterschiedliche Zugänge zu den Daten regelt und dadurch neuartige Geschäfts- und Betreibermodelle ermöglicht. Hierfür werden sichere, schnelle und einfache digitale Identitäten benötigt.</p>
+<p>Die nachfolgende Grafik verdeutlicht wichtige Grundlagen, die für die Umsetzung geschaffen und eingehalten werden müssen, um die Ziele der Strategie zu erreichen. Das betrifft sowohl Infrastrukturen wie Sensorik und Aktorik, die Aufbereitung von Daten und der Verfügbarkeit im Datenhub und darüber hinaus die Verankerung von Datenethik, Datensouveränität oder Werte wie digitale Suffizienz und die Weiterbildung über eine Data Academy.</p>
+<p><img alt="Abbildung_Weiterbildung-Data-Academy" src="../_images/Abbildung_Weiterbildung-Data-Academy.png" />
+Abbildung: Technische Grundlagenthemen für die Umsetzung einer Smart City</p>
+<div class="section" id="infrastrukturelle-grundlagen-fur-die-smart-city">
+<h2>Infrastrukturelle Grundlagen für die Smart City<a class="headerlink" href="#infrastrukturelle-grundlagen-fur-die-smart-city" title="Link zu dieser Überschrift">¶</a></h2>
+<p>Die Grundlage für eine digital aufgestellte Smart City bildet die <strong>IT-Infrastruktur</strong>. Die Umsetzung von Maßnahmen innerhalb der für Ulm identifizierten Handlungsfelder ist davon abhängig, dass Daten einerseits erfasst und andererseits für die relevanten Akteure und Systeme bereitgestellt werden können. Dieser Abschnitt befasst sich mit den dafür notwendigen Hardwarekomponenten. Zunächst wird auf Sensorik und Aktorik eingegangen. Anschließend folgt eine kurze Zusammenfassung der wichtigsten Technologien für die Übertragung von Daten. Zuletzt wird der aktuelle Stand in Ulm beschrieben und ein Ausblick auf die weitere Entwicklung gegeben.</p>
+<div class="section" id="sensorik-aktorik">
+<h3>Sensorik &amp; Aktorik<a class="headerlink" href="#sensorik-aktorik" title="Link zu dieser Überschrift">¶</a></h3>
+<p>In vielen Anwendungsbereichen werden zur <strong>Erfassung von Daten</strong> Sensoren eingesetzt. Diese messen z.B. Verkehrsströme oder Luftqualitätsparameter wie Temperatur, Luftfeuchtigkeit, CO2-Gehalt und Feinstaubbelastung. Die gemessenen Parameter werden anschließend vom Sensor in ein elektrisches Signal umgewandelt, an einen Datenknotenpunkt weitergeleitet und können dort weiterverarbeitet werden. Das Gegenstück zu einem <strong>Sensor</strong> ist ein sogenannter <strong>Aktor</strong>. Dieser empfängt in erster Linie elektrische Signale von einer zentralen Stelle und greift als Reaktion darauf in die reale Welt ein. Misst beispielsweise ein Bewegungssensor nachts in der Nähe einer smarten Straßenlaterne eine Bewegung, leitet er ein Signal an eine zentrale Stelle, wo es verarbeitet und anschließend an den Aktor weitergeleitet wird. Dieser wandelt es in eine analoge Reaktion um, indem er z.B. die Straßenlaterne einschaltet.</p>
+</div>
+<div class="section" id="ubertragung-netze">
+<h3>Übertragung/Netze<a class="headerlink" href="#ubertragung-netze" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Um Daten nicht nur erfassen, sondern auch weiterleiten und -verarbeiten zu können, werden verschiedene Technologien mit unterschiedlichen Vor- und Nachteilen verwendet. Grundsätzlich lässt sich zwischen kabelgebundenen und drahtlosen <strong>Datenübertragungstechnologien</strong> unterscheiden. Die wichtigsten aus beiden Bereichen werden im Folgenden kurz erläutert und eingeordnet.</p>
+<p><strong>Kabelgebundene Datenübertragung</strong> bildet das Rückgrat der Dateninfrastruktur. Per Kabel ist es möglich, große Datenmengen zu übertragen. Allerdings ist die Implementierung von solchen Netzen mit großem Aufwand verbunden und die Nutzung ermöglicht wenig Flexibilität. Zu den relevanten kabelgebundenen Technologien für Datenübertragung zählen in erster Linie Kupfer-, Koaxial- und Glasfaserkabel. Während Kupfer- und Koaxialkabel in ihrer Funktionalität bezüglich verschiedener Parameter limitiert sind, liegt die Stärke der Glasfaser insbesondere in der geringen Dämpfung. Somit können Signale ohne große Verluste auch über weite Strecken übertragen werden.</p>
+<p>Deutlich mobiler können <strong>drahtlose Funktechnologien</strong> für die Datenübertragung genutzt werden. Im Bereich Mobilfunk wird in Deutschland aktuell noch hauptsächlich der LTE-Standard verwendet, doch auch Netze der neuen Generation 5G befinden sich im Aufbau. 5G ermöglicht unter anderem deutlich höhere Übertragungsraten und eine direkte Vernetzung von Gegenständen untereinander (Machine to Machine). Auch 6G befindet sich bereits in der Entwicklung und wird in einigen Jahren die Übertragungskapazität weiter steigern und Latenzen reduzieren. Ebenfalls drahtlos funktioniert WLAN, welches hohe Übertragungsraten auf kurzen Distanzen ermöglicht. In einer Smart City eignet es sich daher vor allem, um abgegrenzte stark genutzte Areale per <strong>Open Wifi</strong> abzudecken.</p>
+<p>Eine weitere Übertragungsart stellt <strong>LoRaWAN</strong> (Long Range Wide Area Network) dar. Es zählt zu den LPWAN-Technologien (Low Power Wide Area Networks). Dieses zeichnet sich – komplementär zu WLAN – durch die Übertragung kleiner Datenmengen über große Distanzen bei geringem Energieverbrauch aus. Somit eignet es sich z.B. für IoT-Anwendungen im ländlichen Raum, da mit geringem Aufwand ein großflächiges Netz implementiert werden kann.</p>
+<p>Im Vergleich zu anderen LPWAN-Technologien wie NB-IOT oder LTE-M (Mobilfunk) nutzt LoRaWAN ein unlizensiertes Frequenzspektrum, sodass dafür keine Kosten anfallen. Diese Stärke weist auch die proprietäre LPWAN-Technologie Sigfox auf. Hier darf ein Sensor allerdings höchstens 140 Nachrichten am Tag versenden und es fallen jährliche Gebühren pro Sensor an. Eine weitere Option für kurzreichweitige IoT-Anwendungen ist Zigbee. Hier sind etwas höhere Datenübertragungen möglich als bei LoRaWAN, dafür beschränkt sich die Reichweite allerdings auf maximal 100 m.</p>
+<p>Zuletzt soll in diesem Abschnitt auf das Internet Protokoll Version 6, IPv6, eingegangen werden, da diese für eine Smart City von entscheidender Bedeutung ist. Bisher kommunizieren Geräte größtenteils über den IPv4-Standard. Über diesen alten Standard wird den Geräten eine von etwa 4,3 Milliarden 12-stelligen IP-Adressen zugeordnet – wobei sich auch mehrere Geräte eine IP-Adresse teilen können. Da durch Smart City Anwendungsfälle insbesondere im Bereich IoT immer mehr Geräte hinzukommen, werden diese IP-Adressen knapp. Der Standard IPv6 ermöglicht 39-stellige IP-Adressen und damit ein Vielfaches an einzigartigen Möglichkeiten. Zudem besitzt IPv6 gegenüber IPv4 weitere Vorteile unter anderem beim Routing und der Verschlüsselung von Datenpaketen. Im Sinne einer langfristigen Strategie sollte eine Smart City daher auf IPv6 setzen.</p>
+</div>
+<div class="section" id="status-quo-und-weiterentwicklung">
+<h3>Status quo und Weiterentwicklung<a class="headerlink" href="#status-quo-und-weiterentwicklung" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Die Stadt Ulm arbeitet intensiv daran, das Stadtgebiet flächendeckend mit <strong>Glasfaseranschlüssen</strong> auszustatten. Über die städtische Tochter SWU Telenet wird deshalb in den Ausbau der Infrastruktur investiert. Ziel ist es, bis 2025 den Ausbau der Innenstadt fertigzustellen. Bereits heute bieten über 97 % der Anschlüsse in Ulm hohe Übertragungsgeschwindigkeiten von mindestens 100 Mbit/s und weit über die Hälfte (63%) sogar Gigabitgeschwindigkeiten von über 1.000 Mbit/s. Das Backbone-Netz im Alb-Donau-Kreis ist bereits weitestgehend fertiggestellt.</p>
+<p>Der Glasfaserausbau bildet eine wichtige Basis zum Ausbau der 5G-Mobilfunkkomponenten. Aktuell besteht noch keine nennenswerte Abdeckung über das <strong>5G-Netz</strong>. Durch Forschungsprojekte startet die Stadt Ulm jedoch bereits gemeinsam mit den Kreisen Neu-Ulm und Alb-Donau erste Pilotprojekte zur Anwendung des neuen Mobilfunkstandards 5G. Dafür wurde ein geschlossenes Testnetz basierend auf den Anforderungen aufgebaut, das von Dornstadt über die Stadtgebiete Ulm und Neu-Ulm hinweg bin nach Senden reicht.
+Auch im Bereich <strong>Open Wifi</strong> ist die Stadt Ulm bereits gut aufgestellt. Über 60 Access-Points versorgen sowohl Busse und Straßenbahnen als auch hochfrequentierte Aufenthaltsbereiche um den Bahnhof, den Münsterplatz und den Weinhof.</p>
+<p>In Ulm stellt LoRaWAN für viele Smart City-Anwendungen (kleine Datenmengen vorausgesetzt) aktuell die vielversprechendste Übertragungstechnologie dar und es existiert bereits eine breite Community. Daher ist im Gebiet der Stadt Ulm bereits ein flächendeckendes LoRaWAN aufgebaut. Testfeld und Showroom für das Internet der Dinge bildet hier der <strong>LoRaPark</strong> <a class="footnote-reference brackets" href="#id8" id="id1">1</a>.  Auf dem Weinhof wird die Sensortechnik bereits erlebbar und den Bürgerinnen und Bürgern nähergebracht. Datenliefernde Objekte, beispielsweise das Ulmer Nest, werden bereits nach und nach von einer Mobilfunkanbindung über GSM auf eine energieeffiziente Anbindung per LoRaWAN umgestellt. Darüber hinaus sind bereits einige Projekte über LoRaWAN angebunden. Hochbeete, Luft- und Klimasensoren oder Umfragesysteme im Stadtraum stellen einen Auszug der Projekte dar, die bereits relevante Daten ins IoT-Netz einspeisen. Wichtig ist nun, die Erfahrungen aus pilotierten Projekten auf Services bzw. Anwendungen im Stadtgebiet zu übertragen. Dennoch sollten Entwicklungen in anderen LPWAN-Technologien weiterhin beobachtet werden.</p>
+<p>Um eine Smart City zukünftig mit Leben zu füllen, genügt der Stadt Ulm jedoch nicht nur die einseitige Anbindung von Daten der Sensoren. Auch Smart City Lösungen greifen auf Daten aus der Stadtverwaltung zu. Dafür ist es notwendig, die entsprechende Anschlussfähigkeit sicherzustellen (beispielsweise durch Schnittstellen), Daten verfügbar zu machen und diese strukturiert vorzuhalten. Als besonders wichtige Quellen gelten die Geodateninfrastruktur (GDI) sowie die Open Data Plattform. <a class="footnote-reference brackets" href="#id9" id="id2">2</a>  Nicht zuletzt sind auch Standards notwendig, denn sie sind der Schlüssel zur Komplexitätsreduktion. <a class="footnote-reference brackets" href="#id10" id="id3">3</a></p>
+</div>
+</div>
+<div class="section" id="dateninfrastruktur-in-der-smart-city">
+<h2>Dateninfrastruktur in der Smart City<a class="headerlink" href="#dateninfrastruktur-in-der-smart-city" title="Link zu dieser Überschrift">¶</a></h2>
+<p>Daten sind der Schlüssel für eine Smart City. Im Folgenden wird kurz dargestellt, warum Daten ein solch zentrales Element für eine intelligente und effiziente Stadtplanung und -entwicklung sind. Anschließend wird das Konzept einer urbanen Datenplattform als Hauptbestandteil der <strong>Dateninfrastruktur</strong> erläutert. Zuletzt wird ein Einblick in den aktuellen Stand der Ulmer Dateninfrastruktur gegeben, um daraus weitere strategische Schritte abzuleiten.</p>
+<p><strong>Nutzen von Daten</strong><br />
+<strong>Daten bilden die Grundlage für Analysen</strong> und eine daraus abgeleitete Optimierung von Prozessen. Sie sind die Basis von vielen Dienstleistungen und Systemen in einer Stadt. Erst durch das Messen und Festhalten von Einflussfaktoren können getroffene Annahmen überprüft, verifiziert oder widerlegt und wertebasiert gesteuert werden. Wichtig ist, Daten nicht nur zu erheben, zu sammeln und zu visualisieren, sondern auch zu analysieren und die gewonnenen Erkenntnisse zu nutzen, um Prozesse nachhaltiger und effizienter zu gestalten oder gesteckte Ziele durch intelligente Steuerung besser zu erreichen. Insbesondere durch neue digitale technologische Trends wie Big Data und künstliche Intelligenz ergeben sich ganz neue <strong>Potenziale durch das Erschließen von Daten</strong>. Diese Werkzeuge ermöglichen durch das Verknüpfen von Daten aus unterschiedlichen Quellen und das Erkennen von Mustern durch z.B. maschinelles Lernen einen immer größeren Erkenntnisgewinn auf Basis von Daten.</p>
+<p>Für die Stadt Ulm bieten diese generierten Daten ein enormes Potenzial für eine zukunftsorientierte Stadtentwicklung. Die Herausforderung für den Konzern Stadt liegt dabei in der Etablierung eines effizienten stadtweiten Datenmanagements sowie in der Identifikation und Inwertsetzung relevanter kommunaler Daten.</p>
+<p>Dabei erfolgt die Nutzung von Daten auf mehreren Wegen. Einerseits durch eine zielgerichtete intersektorale Verschneidung und Analyse für stadtinterne Nutzungszwecke und andererseits durch die Bereitstellung offener Daten (Open Data) im Sinne einer offenen und transparenten Verwaltung (Open Government) zu Informations- und Anwendungszwecken für die Verwaltung, Bürger*innen, für die Wissenschaft und die Wirtschaft. Um dies zu erreichen, verfolgt die Stadt Ulm im Smart City Konzept eine Reihe von Projekten, die der Stadt dabei helfen, die Erfüllung kommunaler Aufgaben und das Infrastrukturmanagement datenbasiert zu optimieren, Entscheidungen informierter zu treffen und dadurch Mehrwerte für die Stadtgesellschaft zu erzielen. Dabei kommt dem verantwortungsvollen Umgang mit Daten (Datensicherheit, Datenschutz und Datenhoheit) und einer ziel-gerichteten Daten Governance (Regularien zur Steuerung des Umgangs mit Daten) eine zentrale Rolle zu (siehe Punkt 1.3 und 1.4.).</p>
+<p><strong>Open Government</strong><br />
+Um die digitale Souveränität der Stadt Ulm zu stärken ist es daher notwendig, das Thema des Open Government neu zu strukturieren und zu organisieren. Dies umfasst Themen wie die Transparenz eingesetzter Technologien und weiterhin das Thema der fachlichen Vorgaben für die zu beschaffende bzw. zu entwickelnde Software. Die resiliente Stadt der Zukunft sollte strategisch Fähigkeiten zum Umgang mit Datenflüssen, -exportprozessen, Beschaffung passender Fachverfahren und Schnittstellen, freien Lizenzen sowie Data Science schaffen. Fachverfahren müssen so beschafft werden, dass die Ausspielung offener Daten von vorneherein integraler Ausschreibungsbestandteil ist. Der Austausch mit dem digitalen Ehrenamt in den Bereichen Open Data, Freie Software, Informationsfreiheit und Data Science sowie der Aufbau von verwaltungsinternen Kompetenzen hierzu sollte systematisch ausgebaut werden.</p>
+<div class="section" id="datenplattform">
+<h3>Datenplattform<a class="headerlink" href="#datenplattform" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Um aus vorhandenen Daten in einer Stadt einen möglichst großen Mehrwert generieren zu können, sollten alle Stakeholder einen einfachen Zugang zu möglichst vielen Daten erhalten – ausgenommen sicherheitsrelevante und personenbezogene Daten. Dieser Zugang kann durch eine zentrale urbane Datenplattform bereitgestellt werden. Hier können alle offenen städtischen Datensätze an einer zentralen Stelle zusammengeführt und bereitgestellt werden. Verwaltung, Politik, Bürger*innen, Unternehmen und die Wissenschaft können dann auf alle für sie freigegebenen Daten zugreifen. Somit profitiert nicht nur die Stelle, die den jeweiligen Datensatz generiert hat, sondern jeder relevante Akteur.</p>
+<p>Die nachfolgende Abbildung 12 stellt schematisch die zukünftige <strong>Funktion der urbanen Datenplattform Ulm dar</strong>. Datenquellen wie z.B. Sensoren oder extern bereitgestellte Daten werden über geeignete Schnittstellen an die Plattform angebunden. Hinzu kommen weitere Daten aus anderen Datenquellen bzw. datenführenden Systemen, die ebenfalls über eine geeignete Schnittstelle angebunden werden. Innerhalb der urbanen Datenplattform werde Daten zentral gespeichert und für weiterführende Anwendungen bereitgestellt. Es kann z.B. eine Visualisierung der Daten erfolgen. Auch interessierte Bürger*innen oder Unternehmen können die öffentlich bereitgestellten Daten nutzen und eigene Datensätze oder Dienste einstellen.</p>
+<p><img alt="Abbildung_Exemplarischer-Aufbau-Datenplattform-Ulm" src="../_images/Abbildung_Exemplarischer-Aufbau-Datenplattform-Ulm.png" />
+Abbildung: Exemplarischer Aufbau der Datenplattform Ulm</p>
+</div>
+<div class="section" id="status-quo-und-weiterentwicklung-des-datenhubs-zur-vollumfanglichen-dateninfrastruktur">
+<h3>Status quo und Weiterentwicklung des Datenhubs zur vollumfänglichen Dateninfrastruktur<a class="headerlink" href="#status-quo-und-weiterentwicklung-des-datenhubs-zur-vollumfanglichen-dateninfrastruktur" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Der <strong>Datenhub Ulm</strong> ist in der aktuellen Entwicklungsstufe eine Datenplattform, die es ermöglicht, Daten dort für Dritte zu speichern, zur Verfügung zu stellen, IoT-Datenquellen anzubinden und nach Daten thematisch zu suchen. Auch eine grafische Darstellung der vorhandenen Daten in Form von Graphen oder Karten ist nur sehr eingeschränkt möglich. Der Datenhub bietet daher aktuell einen guten Einstieg und ist Grundlage für die Erfassung und Nutzbarmachung von Sensordaten, soll aber umfassend weiterentwickelt werden.</p>
+<p>Um eine optimale Nutzung für alle Akteure zu ermöglichen, soll die Plattform sich zunehmend im <strong>Funktionsumfang</strong> und in der <strong>Bedienbarkeit</strong> verbessern. Das schließt ein, dass Daten unabhängig der Art der Datenlieferung aufgenommen und in weiteren Dateiformaten weitergenutzt werden können. Dazu ist es nötig, die gelieferten Daten maschinell aufzubereiten und zu vereinheitlichen. Damit können dann zugleich auch verschiedene Datenquellen miteinander verschnitten und kombiniert werden, ohne die Grundlage vorher manuell anzugleichen.</p>
+<p>Darüber hinaus sollte die Plattform umfassende Möglichkeiten bieten, die Daten grafisch aufzubereiten und darzustellen. Für eine erfolgreiche Vermarktung und beständige Nutzung ist auch die User Experience zu verbessern. CKAN ist zwar eine weit verbreitete Open Source Lösung, es mangelt aber an der verständlichen und nutzerfreundlichen Darstellung. Diese Darstellung soll in Nutzertests optimiert werden und kann ebenfalls in das CKAN Open Source Projekt zurückgespielt werden. Letztendlich stärkt die Rückführung der Verbesserungen an die Open Source Community von CKAN die Position der Stadt Ulm als digitale Vorreiterstadt.</p>
+</div>
+</div>
+<div class="section" id="datenspezifische-ziele-und-datenexzellenz">
+<h2>Datenspezifische Ziele und Datenexzellenz<a class="headerlink" href="#datenspezifische-ziele-und-datenexzellenz" title="Link zu dieser Überschrift">¶</a></h2>
+<p>Mindestens ebenso wichtig wie die in den vorherigen Kapiteln beschriebenen infrastrukturellen Grundlagen in den Bereichen Hardware und Software für eine Smart City ist eine konsistente Strategie im Umgang mit den Daten. Nur wenn verantwortungsbewusst innerhalb eines ethischen Rahmens gehandelt und ausreichend Wert auf die Qualität der Daten gelegt wird, können die Potenziale auch tatsächlich ausgeschöpft und ein Mehrwert für das Gemeinwohl generiert werden. Im Folgenden wird daher ein Überblick über datenspezifische Leilinien für kommunale Daten der Stadt Ulm gegeben und anschließend das Konzept der Datenexzellenz zur Erreichung höchster Daten- und Prozessqualität vorgestellt. Zuletzt wird ein Einblick in den aktuellen Stand der Stadt Ulm im Umgang mit Daten gegeben sowie zukünftige Ziele dargestellt.</p>
+<div class="section" id="datenspezifische-ziele-leitlinien">
+<h3>Datenspezifische Ziele &amp; Leitlinien<a class="headerlink" href="#datenspezifische-ziele-leitlinien" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Die Stadt Ulm setzt sich ambitionierte Ziele und Leitlinien im Umgang mit Daten und technischer Infrastruktur. Diese sind:</p>
+<p><strong>Standardisierung</strong>: Zur Harmonisierung der IT-Applikationen und zur Senkung der IT-Kosten orientiert sich die Stadt Ulm an offenen Standards und Schnittstellen. Das betrifft sowohl Prozesse, die Konsolidierung der IT-Landschaft und IT-Applikationen. Diese Standardisierung sichert auch die Anschlussfähigkeit interner Prozesse und sorgt für eine reibungslose Anbindung von Drittsystemen (Kooperation und Zusammenarbeit). Um die Entwicklung von Anwendungen, Lösungen und Apps durch Privatwirtschaft und zivilgesellschaftliche Institutionen (Civic Tech) zu unterstützen, stellt die Stadt Ulm möglichst viele Daten offen, maschinenlesbar und herstellerunabhängig zur Verfügung.</p>
+<p><strong>Offene Daten</strong>: Offene Daten (Open Data) stehen frei zur Verfügung. Sie können zu jedem Zweck genutzt, weiterverbreitet und weiterverwendet werden. Um den Grundsätzen von Open Government und Open Data gerecht zu werden, wird innerhalb der Stadt Ulm ein Paradigmenwechsel angestrebt. Dieser sieht den Einstellungswandel von „Alles ist geheim, außer … “ hin zu „Alles ist öffentlich, außer …“ vor. Voraussetzung hierfür ist ein grundsätzlich aktueller, qualitätsgesicherter und organisierter Datenbestand.
+Um trotz offener Daten den regulatorischen Einfluss nicht zu verlieren, helfen <strong>Data-Sharing Agreements</strong>. Ein Beispiel hierfür sind stationslose Sharing-Angebote wie E-Scooter. Auf diese Weise lässt sich der Datenaustausch zwischen Kommune und Anbieter sicherstellen. Die Stadt Ulm setzt bereits in der Zusammenarbeit mit dem E-Scooter Anbieter ZEUS auf den Austausch per MDS (Mobility Data Specification).</p>
+<p>Für die Nutzbarkeit dieser Daten ist zeitgleich die <strong>Maschinenlesbarkeit</strong> aufgrund des Dateiformats entscheidend. Dieses sollte von einem Rechner weiterverarbeitet werden können. Eine PDF-Datei ist zwar für Nutzer*innen gut lesbar, aber für eine automatisierte Weiterverwendung nur schwer zugänglich. Als maschinenlesbar gelten unter anderem die Dateiformate .txt, .csv, .json, .xml oder .rss. Darüber hinaus ermöglicht die Verwendung von URIs (Uniform Resource Identifier) die Verlinkung und Vernetzung von Daten, sodass Kontexte hergestellt werden können (Fünf-Sterne Klassifizierung). <a class="footnote-reference brackets" href="#id11" id="id4">4</a></p>
+<p>Die Öffnung der Daten stützt gleichzeitig den bürgerorientierten Ansatz, indem der verwaltungsinterne Datenschatz die Partizipation der lokalen Zivilgesellschaft und mögliche Ko-Kreationsprozesse zwischen Bürgerschaft und Verwaltung fördert bzw. erst ermöglicht.</p>
+<p>Dabei erfordert die Bereitstellung offener Daten durch die öffentliche Verwaltung – v.a. im Hinblick auf den Betrieb eines eigenen Portals, aber auch in Bezug auf die laufende Datenpflege – ein hohes Maß von Kompetenz vor Ort (vgl. Kapitel 8: Organisatorische Grundlagen).</p>
+<p><strong>Open Source und offene Schnittstellen (API)</strong>: Die Stadt Ulm setzt auf die Nutzung, Weiterentwicklung und Veröffentlichung von offenen Software-Quellcodes. Dadurch kann Software einerseits kostengünstig adaptiert werden und andererseits weiterentwickelt wieder zur Verfügung gestellt werden. Das erhöht die Innovationsgeschwindigkeit und schützt vor Vendor Lock-In-Effekten. Für die Stadt Ulm schließt das auch offene Programmierschnittstellen, sogenannte APIs (Application Programming Interface) ein. Diese ermöglichen die Anbindung und Kommunikation zwischen verschiedenen Datenquellen und einen barrierefreien Zugang zu Daten ohne physische und technische Hürden (Anbindung an und von Drittsystemen). Dadurch können diese zum einen untereinander Daten austauschen und zum anderen Daten aus verschiedenen Quellen zusammenfließen lassen, entsprechend interpretieren und weiterverwenden. Einfache und offene Schnittstellen sorgen dafür, dass sich verschiedene Behörden miteinander vernetzen können und so z.B. für Beurteilungen und Planungsverfahren umfassende Entscheidungsgrundlagen vorliegen.</p>
+<p><strong>Datenethik und Datensouveränität</strong>: Bei der Konzeption und Anwendung von Smart City Lösungen ist der Datenschutz oberste Prämisse. Dazu gehört selbstverständlich auch die Einhaltung der Datenschutzgrundverordnung (DSGVO). Diesen Grundsätzen begegnet die Stadt Ulm mit dem Datenethikkonzept. <a class="footnote-reference brackets" href="#id12" id="id5">5</a> Es legt fest, dass die Daten der Bürgerschaft gehören und die Datenhoheit zur Verwaltung der Infrastruktur an die Stadt abgegeben wird. Grundsätzlich wird hier auf Privacy by Design und das Prinzip der Datensparsamkeit gesetzt. Die herangezogenen technischen Systeme sollen stets zum besten Nutzen der Stadt dienen, weshalb Ulm offene statt proprietäre Schnittstellen präferiert.</p>
+</div>
+<div class="section" id="datenexzellenz">
+<h3>Datenexzellenz<a class="headerlink" href="#datenexzellenz" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Unter <strong>Datenexzellenz</strong> versteht man die Fähigkeit einer Organisation, ihr operatives Ziel zu erreichen, indem die Verfügbarkeit und Integration von geeigneten, transparenten und konformen Daten hoher Qualität sichergestellt wird. Dies ist insbesondere für Städte relevant, die die Agenda verfolgen, Daten offen zur Verfügung zu stellen und deren Volumen an Daten stetig wächst. Damit aus den vorhandenen Daten ein möglichst großer Mehrwert generiert werden kann, ist das Ziel der Datenexzellenz anzustreben. Diese setzt sich aus den Aspekten Datenqualität, Prozessqualität, operative Exzellenz und rechtliche Exzellenz zusammen.</p>
+<p>Eine Möglichkeit, die <strong>Qualität von Daten</strong> zu bewerten, stellen die sogenannten FAIR-Kriterien dar. „FAIR“ steht für Findable (auffindbar), Accessible (zugänglich), Interoperable (interoperabel) und Reusable (wiederverwendbar):</p>
+<ul class="simple">
+<li><p><strong>Findable:</strong> Daten müssen sowohl für Menschen als auch für Maschinen möglichst einfach zu finden sein. Dafür sind strukturierte, konsistente und maschinenlesbare Metadaten entscheidend, die dem entsprechenden Datensatz zugeordnet und identifiziert werden können.</p></li>
+<li><p><strong>Accessible:</strong> Datensätze müssen für Nutzende zugänglich sein. Dazu müssen sie wissen, wie sie auf die Daten zugreifen können. Es wird ein klares Authentifizierungs- und Autorisierungssystem benötigt. Zudem müssen die Daten über standardisierte Schnittstellen abrufbar sein.</p></li>
+<li><p><strong>Interoperable:</strong> Daten müssen in andere Daten integriert und mit ihnen verknüpft werden können. Zudem müssen sie mit Anwendungen zur Analyse, Speicherung und Verarbeitung kompatibel sein.</p></li>
+<li><p><strong>Reusable:</strong> Um Daten in anderen Kontexten oder zu einem späteren Zeitpunkt erneut verwenden zu können, sind hochwertige Metadaten erforderlich, die die Daten beschreiben. Dies vereinfacht die Vergleichbarkeit mit anderen Datensätzen und die Nachnutzung.</p></li>
+</ul>
+<p>Um neben einer hohen Datenqualität auch eine <strong>Exzellenz in der Prozessqualität</strong> zu erreichen, kommt es insbesondere auf klare und zuverlässige Verantwortlichkeiten, Prozesse und Richtlinien an. Es ist wichtig, Datentransparenz und Überprüfbarkeit sicherzustellen. Zudem bedarf es eines zentralen Zugangs zu Daten wie er beispielsweise über eine zentrale Datenplattform ermöglicht werden kann. Die Exzellenz in der Prozessqualität kann durch ein konsistentes und strategisch ausgerichtetes Urban Data Governance angestrebt werden (siehe Kapitel 7.4).</p>
+<p>Für <strong>rechtliche Exzellenz</strong> sind im kommunalen Kontext vor allem die Public Sector Information Richtlinie (PSI) sowie das Onlinezugangsgesetz (OZG) und die Datenschutzgrundverordnung der EU (DSGVO) relevant. Werden geltende Gesetze nicht eingehalten, stellt dies einen Mangel hinsichtlich der Datenexzellenz dar. Auf operativer Ebene bedeutet Exzellenz im städtischen Kontext, Dienstleistungen für die Bürgerschaft zu erbringen und dabei gut informierte Entscheidungen zu treffen.</p>
+</div>
+<div class="section" id="id6">
+<h3>Status quo und Weiterentwicklung<a class="headerlink" href="#id6" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Mit steigendem Datenaufkommen und dem Wunsch, offene Daten zur Verfügung zu stellen, wachsen in der Konsequenz die Datenexzellenzherausforderungen. Dabei gilt es auch, das Recht der Bürger*innen auf den Schutz ihrer Daten zu wahren (Datensicherheit, Cybersecurity – vgl. dazu Kapitel 6: Handlungsfeld Sicherheit).
+Diese Herausforderungen werden durch diverse Aspekte verursacht, die es zu vermeiden gilt. Dazu gehören:</p>
+<ul class="simple">
+<li><p>Mangelnde Sensibilisierung der Verwaltungsspitze und der Politik</p></li>
+<li><p>Fehlende Kompetenzen und Sensibilisierung der Mitarbeitenden</p></li>
+<li><p>Unzureichende Kultur des Teilens von Daten</p></li>
+<li><p>Fehlende Übersicht zu stadtintern vorhandenen Daten und deren Beschreibungen (interner Metadatenkatalog)</p></li>
+<li><p>Fehlende Dateninfrastrukturen und kein gesamtstädtisches Datenmanagement sowie mangelhafte Datenqualität</p></li>
+<li><p>Mangelnde Erfahrung und wenige flexible Strukturen</p></li>
+<li><p>Fehlende Zusammenarbeit im Konzern Stadt</p></li>
+<li><p>Unzureichende Datenhoheit im Smart-City-Kontext</p></li>
+</ul>
+<p>Für die Stadt Ulm heißt dies, dass auf zahlreiche Initiativen, die an unterschiedlichen Stellen des Stadtsystems bisher rund um daten- und IT-getriebene Bürgerbeteiligung und smarte Infrastruktur entstanden sind, eine Überführung in einen nachhaltigen Betrieb erfolgen muss. Hierbei spielen Themen wie Skalierbarkeit, Ausfallsicherheit, aber auch einheitliche Datenhaltung eine Rolle. Entscheidend dafür ist neben einer Prioritätssetzung für Datenthemen die konsequente strategische Verankerung sowie Partizipation, Ressourcenspielräume und Change Management in der Verwaltung.</p>
+<p>Vielen dieser Herausforderungen begegnet die Stadt Ulm bereits durch den Aufbau einer Urban Data Governance (nachfolgend) sowie der Weiterentwicklung des Datenhubs. Organisatorische und kulturelle Kompetenzen spielen darüber hinaus eine entscheidende Rolle (vgl. Kapitel 8: Organisatorisches Grundlagenkapitel).</p>
+</div>
+</div>
+<div class="section" id="urban-data-governance">
+<h2>Urban Data Governance<a class="headerlink" href="#urban-data-governance" title="Link zu dieser Überschrift">¶</a></h2>
+<p>Data Governance umfasst in Summe die Menschen, Prozesse und Technologien, die zur Verwaltung und zum Schutz des Datenkapitals der Organisation benötigt werden, um allgemein verständliche, korrekte, vollständige, vertrauenswürdige, sichere und auffindbare Daten garantieren zu können und ermöglicht der Organisation, Datenexzellenz zu erreichen. Ziele sind die Förderung und Sicherstellung eines wünschenswerten Verhaltens in der Verwendung von Daten und die Maximierung des Wertes durch die Verbesserung der Datenqualität. Gerade die zunehmende Flut an Daten erschwert die Vereinheitlichung der Datensätze und macht es schwieriger, Daten aus unterschiedlichen Quellen zu überblicken. Benötigt wird also eine „Legislative“, die Prozesse und Strukturen einmal vorausdenkt, sodass Daten in den Strukturen wie in einem Flussbett fließen können. Eine fehlende strategische Verankerung im Management ist eine häufig anzutreffende Unzulänglichkeit, die durch eine langfristige Strategie für Datenqualität und Data Governance behoben werden sollte.</p>
+<p>Die Data Governance umfasst sowohl interne als auch externe Bereiche. Diese leiten sich aus der Definition eines Datenökosystems ab. Ein Datenökosystem ist dabei durch die Interaktion mehrerer Akteure charakterisiert, die direkt oder indirekt Daten und andere verwandte Ressourcen nutzen, generieren oder bereitstellen. Dementsprechend ist neben einer Governance für den inneren Stadtkonzern auch eine Data Governance für Personen und Organisationen außerhalb erforderlich. Wesentliche Bestandteile sind die Festlegung von Entscheidungsrechten und Verantwortlichkeiten sowie die Etablierung von Richtlinien und Vorgaben für die Bewirtschaftung von Daten.</p>
+<div class="section" id="aufbau-der-data-governance">
+<h3>Aufbau der Data Governance<a class="headerlink" href="#aufbau-der-data-governance" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Soll die Datenexzellenz einer Organisation nachhaltig steigen, so ist es notwendig, eine Datenexzellenzorganisation bestehend aus den drei Geltungsbereichen Strategie, Data Governance und Data Management zu etablieren.</p>
+<p>Wesentlicher Teil einer Organisation, die für sich die Datenexzellenz anstrebt, sind klar definierte Rollen und Verantwortlichkeiten, die in laufenden Prozessen funktionierende Monitoring- und Änderungsprozesse sowie eine zielgerichtete Datenpflege sicherstellen. Wie sich diese Rollen im Detail ausgestalten, muss sehr nahe an der Organisationskultur ausgerichtet und entschieden werden. Zusätzlich zur implizit vorhandenen, unteren Ebene des Data Managements, das dezentral in den Abteilungen und Teams stattfindet, sollte mindestens eine operative Rolle (Data Governance) und eine strategische Rolle (Strategie) benannt werden. Oft kann bei einer Einführung von Data Governance auf existierende Strukturen der operativen Ebene aufgebaut werden und explizite Mandate in den Aufgabenbeschreibungen verankert werden.</p>
+<p><img alt="Abbildung_Bausteine-der-Aufbauorganisation" src="../_images/Abbildung_Bausteine-der-Aufbauorganisation.png" />
+Abbildung: Abbildung: Bausteine der Aufbauorganisation</p>
+</div>
+<div class="section" id="geschafts-betreibermodelle">
+<h3>Geschäfts-/Betreibermodelle<a class="headerlink" href="#geschafts-betreibermodelle" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Daten gewinnen weiterhin rasant an Bedeutung. Daher ist die Verfügbarkeit hochqualitativer Daten eine entscheidende Grundlage, aufbauende Geschäfts- und Betreibermodelle zu ermöglichen. Durch diese neuen Geschäftsmodelle kann letztendlich ein zusätzlicher Nutzen für Externe (wie bspw. <strong>Bürger:innen</strong>) oder <strong>Drittorganisationen</strong> (bspw. Unternehmen) identifiziert und generiert werden.</p>
+<p>Die neuartigen Geschäfts- und Betreibermodelle werden durch die kollaborativen Ansätze in ihrem Aufbau komplexer. Die Stadtverwaltung ist nicht mehr länger in der Lage, alle Services und Leistungen selbst anzubieten und die Öffnung der Daten für Dritte ermöglicht gänzlich neue Betreiberformen durch Dritte. Daher ist es – trotz offener Daten – notwendig, <strong>Zugriffsrechte, Rollen und Lizenzmodelle</strong> festzulegen.</p>
+<p>Wenn zunehmend alle Daten auf einer Datenplattform zusammenlaufen ist es notwendig, die Zusammenarbeit innerhalb des Stadtkonzerns, beispielsweise mit den Stadtwerken als Betreiber städtischer Infrastrukturen festzulegen und Aussagen über die Weiterverwendung der offenen Daten zu treffen. Dazu soll festgeschrieben werden, welche <strong>Zugangs- und Verwertungsrechte</strong> gelten sowie welcher Grad der Transparenz und Aufsicht über die Nutzung von kommunal erzeugten Daten garantiert wird. Denn die Datenerhebung, Datenverarbeitung, Datenweitergabe und Datenanalyse sollten grundsätzlich dem Gemeinwohl dienen.</p>
+</div>
+<div class="section" id="id7">
+<h3>Status quo und Weiterentwicklung<a class="headerlink" href="#id7" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Data Governance ist in Ulm in wenigen Ansätzen bereits vorhanden, wenngleich nicht unbedingt institutionalisiert, aber doch zumindest für einzelne Anwendungen oder Fachbereiche in Kraft. Eine systematische Einführung einer Data Governance ist daher als eine Weiterentwicklung von der informellen Steuerung hin zur formellen Steuerung zu verstehen. Dazu ist es notwendig, Zuständigkeiten zu verankern.</p>
+<p>Eine umfassende und klassische Aufbauorganisation ist für die Stadt Ulm nicht sinnvoll abbildbar. Daher sollen weniger Rollen etabliert werden. So könnten bspw. nur Rollen auf den drei Ebenen (Strategie, Data Governance und Data Management) besetzt werden (s. Abb. 4).</p>
+<p>Dem Datenqualitätskomitee obliegen endgültige Entscheidungen und die generelle, sowie bei Änderungsbedarf eine neue Ausrichtung der Data Governance. Die Aufgaben des Data Stewards sind mitunter Aufgaben auf der strategischen Ebene und jegliche Aufgaben der Abstimmung zwischen den verschiedenen Hierarchieebenen sowie darüber hinaus die fachliche Prüfung bei wesentlichen Änderungen des Datenmanagements. Die Pflege der Daten an sich und deren fachliche Prüfung unterliegen dem Data User und somit jedem Mitarbeitenden der Verwaltung, dessen Stellenbeschreibung entsprechend angepasst wird.</p>
+<p><img alt="Abbildung_Baustein-Aufbauorganisation-Referenzmodell" src="../_images/Abbildung_Baustein-Aufbauorganisation-Referenzmodell.png" />
+Abbildung: Baustein zur Aufbauorganisation des Referenzmodells</p>
+<p>Die strategische Einheit der Digitalen Agenda sollte hier die steuernde Funktion übernehmen, zentralisiert und übergreifend die Urban Data Governance aufzubauen. Das sichert konsistente Prozesse und trägt letztendlich dem Ergebnis einer erhöhten Datenexzellenz bei. Hierbei sind die Grundsätze der Datenstrategie für die Stadtentwicklung der Smart City Plattform vom Mai 2021 zu beachten.</p>
+<p>Einen wichtigen Baustein für die Umsetzung der benötigten Rechte und Rollen bilden <strong>digitale Identitäten</strong>. Diese sind ein notwendiges Mittel zur Authentifizierung von Zugriffen. Dafür sollen Lösungen entwickelt werden, die einfach und barrierefrei zu bedienen sind. Der elektronische Personalausweis ist dafür zu kompliziert und andere Lösungen wie die <strong>Authentifizierung</strong> über Drittanbieter (vgl. Facebook/Google Log-in) widersprechen in Punkten der Datensicherheit und Datenhoheit den Zielen und Leitlinien der Stadt Ulm. Es braucht dafür mobile und handhabbare Lösungen.</p>
+<p>Für die Verankerung dieser technischen Grundlagen ist darüber hinaus viel Kompetenzaufbau, sowohl fachlich als auch organisatorisch, notwendig.</p>
+</div>
+</div>
+<div class="section" id="zusammenfassung-der-umsetzungsmasznahmen-in-der-2-phase-ab-2022">
+<h2>Zusammenfassung der Umsetzungsmaßnahmen in der 2. Phase ab 2022<a class="headerlink" href="#zusammenfassung-der-umsetzungsmasznahmen-in-der-2-phase-ab-2022" title="Link zu dieser Überschrift">¶</a></h2>
+<table class="colwidths-auto table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Nr</p></th>
+<th class="head"><p>Titel</p></th>
+<th class="head"><p>Beschreibung</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>1</p></td>
+<td><p>Breitband und Glasfaserausbau</p></td>
+<td><p>Die Stadt Ulm arbeitet intensiv daran, das Stadtgebiet flächendeckend mit Glasfaseran-schlüssen auszustatten, um eine wichtige Basis zum Ausbau der 5G-Mobilfunkkomponenten zu legen.</p></td>
+</tr>
+<tr class="row-odd"><td><p>2</p></td>
+<td><p>LoRaWAN – Erweiterung des LoRaParks</p></td>
+<td><p>Der LoRaPark als Erlebnismöglichkeit des Internets der Dinge wird ausgebaut und bestehende Erfahrungen und Services flächendeckend ausgerollt.</p></td>
+</tr>
+<tr class="row-even"><td><p>3</p></td>
+<td><p>Freies WLAN</p></td>
+<td><p>Zusätzlich zu den über 60 Open Wifi Access-Points in hochfrequentierten Aufenthaltsbereichen wird das Open Wifi weiter ausgebaut.</p></td>
+</tr>
+<tr class="row-odd"><td><p>4</p></td>
+<td><p>WLAN in städtischen Liegenschaften</p></td>
+<td><p>Insbesondere in städtischen Liegenschaften wird der Ausbau von Wifi vorangetrieben.</p></td>
+</tr>
+<tr class="row-even"><td><p>5</p></td>
+<td><p>Ausbau des 5G Testfelds</p></td>
+<td><p>Das bestehende Testnetz im Rahmen des Forschungsprojekts des BMVI „5G Ulm: Stadt. Land. Leben Retten“ soll ausgeweitet werden.</p></td>
+</tr>
+<tr class="row-odd"><td><p>6</p></td>
+<td><p>KI Park</p></td>
+<td><p>Ein Innovationspark „Künstliche Intelligenz“ ist der ideale übergeordnete Rahmen, um zahlreiche regionale Aktivitäten dieses Zukunftsfelds zusammenzuführen.</p></td>
+</tr>
+<tr class="row-even"><td><p>7</p></td>
+<td><p>Intelligentes Stadtmobiliar als Infrastrukturträger</p></td>
+<td><p>Stadtmobiliar wird zunehmend smart und durch digitale Technologien erweitert. Dadurch wird zusätzliches Potential durch den Mehrfachnutzen ansonsten starren Mobiliars aktiviert.</p></td>
+</tr>
+<tr class="row-odd"><td><p>8</p></td>
+<td><p>Laternenmasten als Infrastrukturträger</p></td>
+<td><p>Unter anderem Laternenmasten können als potenzielle Träger von drahtlosen Technologien, Sensoren sowie Aktoren eine wichtige Rolle in der städtischen Infrastruktur einnehmen.</p></td>
+</tr>
+<tr class="row-even"><td><p>9</p></td>
+<td><p>Ausbau der urbanen Datenplattform</p></td>
+<td><p>Um aus vorhandenen Daten in einer Stadt einen möglichst großen Mehrwert generieren zu können und allen Stakeholdern einen einfachen Zugang zu diesen Daten zu ermöglichen, wird eine zentrale urbane Datenplattform ausgebaut. Weiterentwickelt werden vor allem Visualisierungsmöglichkeiten und die Bedienbarkeit sowie die automatisierte Verarbeitung von Daten.</p></td>
+</tr>
+<tr class="row-odd"><td><p>10</p></td>
+<td><p>Wissenschaftliches Know-how</p></td>
+<td><p>Zur technischen Unterstützung und Aufbau von fachlichem Know-how wird eine wissenschaftliche Begleitung eingesetzt.</p></td>
+</tr>
+</tbody>
+</table>
+<hr class="docutils" />
+<dl class="footnote brackets">
+<dt class="label" id="id8"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
+<dd><p>https://lorapark.de/</p>
+</dd>
+<dt class="label" id="id9"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
+<dd><p>http://daten.ulm.de/</p>
+</dd>
+<dt class="label" id="id10"><span class="brackets"><a class="fn-backref" href="#id3">3</a></span></dt>
+<dd><p>Nationaler Normenkontrollrat: Monitor Digitale Verwaltung #5, 2021, Berlin. Abrufbar unter: www.normenkontrollrat.bund.de/nkr-de/digitalisierung</p>
+</dd>
+<dt class="label" id="id11"><span class="brackets"><a class="fn-backref" href="#id4">4</a></span></dt>
+<dd><p>Hierbei kann auf das 5-Sterne-Modell zur Kennzeichnung offener Daten verwiesen werden, welches zur Orientierung und Klassifizierung bei der Bereitstellung von offenen Daten dient (für weitergehende Informationen siehe https://5stardata.info/de/ )</p>
+</dd>
+<dt class="label" id="id12"><span class="brackets"><a class="fn-backref" href="#id5">5</a></span></dt>
+<dd><p>Stadt Ulm (2020). Datenethikkonzept der Stadt Ulm. https://www.ulm.de/aktuelle-meldungen/z%C3%B6a/oktober-2020/datenethikkonzept-2020_10</p>
+</dd>
+</dl>
+</div>
+</div>
+
+
+              </div>
+              
+        </div>
+    </div>
+    
+    
+    <div class='prev-next-bottom'>
+        
+
+    </div>
+    <footer class="footer mt-5 mt-md-0">
+  <div class="container">
+    <p class="license">
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">
+        <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" width="16" height="16"><path fill="currentColor" d="M245.83 214.87l-33.22 17.28c-9.43-19.58-25.24-19.93-27.46-19.93-22.13 0-33.22 14.61-33.22 43.84 0 23.57 9.21 43.84 33.22 43.84 14.47 0 24.65-7.09 30.57-21.26l30.55 15.5c-6.17 11.51-25.69 38.98-65.1 38.98-22.6 0-73.96-10.32-73.96-77.05 0-58.69 43-77.06 72.63-77.06 30.72-.01 52.7 11.95 65.99 35.86zm143.05 0l-32.78 17.28c-9.5-19.77-25.72-19.93-27.9-19.93-22.14 0-33.22 14.61-33.22 43.84 0 23.55 9.23 43.84 33.22 43.84 14.45 0 24.65-7.09 30.54-21.26l31 15.5c-2.1 3.75-21.39 38.98-65.09 38.98-22.69 0-73.96-9.87-73.96-77.05 0-58.67 42.97-77.06 72.63-77.06 30.71-.01 52.58 11.95 65.56 35.86zM247.56 8.05C104.74 8.05 0 123.11 0 256.05c0 138.49 113.6 248 247.56 248 129.93 0 248.44-100.87 248.44-248 0-137.87-106.62-248-248.44-248zm.87 450.81c-112.54 0-203.7-93.04-203.7-202.81 0-105.42 85.43-203.27 203.72-203.27 112.53 0 202.82 89.46 202.82 203.26-.01 121.69-99.68 202.82-202.84 202.82z"></path></svg>
+        <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" width="16" height="16"><path fill="currentColor" d="M314.9 194.4v101.4h-28.3v120.5h-77.1V295.9h-28.3V194.4c0-4.4 1.6-8.2 4.6-11.3 3.1-3.1 6.9-4.7 11.3-4.7H299c4.1 0 7.8 1.6 11.1 4.7 3.1 3.2 4.8 6.9 4.8 11.3zm-101.5-63.7c0-23.3 11.5-35 34.5-35s34.5 11.7 34.5 35c0 23-11.5 34.5-34.5 34.5s-34.5-11.5-34.5-34.5zM247.6 8C389.4 8 496 118.1 496 256c0 147.1-118.5 248-248.4 248C113.6 504 0 394.5 0 256 0 123.1 104.7 8 247.6 8zm.8 44.7C130.2 52.7 44.7 150.6 44.7 256c0 109.8 91.2 202.8 203.7 202.8 103.2 0 202.8-81.1 202.8-202.8.1-113.8-90.2-203.3-202.8-203.3z"></path></svg>
+        <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" width="16" height="16"><path fill="currentColor" d="M247.6 8C389.4 8 496 118.1 496 256c0 147.1-118.5 248-248.4 248C113.6 504 0 394.5 0 256 0 123.1 104.7 8 247.6 8zm.8 44.7C130.2 52.7 44.7 150.6 44.7 256c0 109.8 91.2 202.8 203.7 202.8 103.2 0 202.8-81.1 202.8-202.8.1-113.8-90.2-203.3-202.8-203.3zM137.7 221c13-83.9 80.5-95.7 108.9-95.7 99.8 0 127.5 82.5 127.5 134.2 0 63.6-41 132.9-128.9 132.9-38.9 0-99.1-20-109.4-97h62.5c1.5 30.1 19.6 45.2 54.5 45.2 23.3 0 58-18.2 58-82.8 0-82.5-49.1-80.6-56.7-80.6-33.1 0-51.7 14.6-55.8 43.8h18.2l-49.2 49.2-49-49.2h19.4z"></path></svg>
+      </a>
+      Dieses Werk ist lizenziert unter einer
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/">
+        Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International (CC BY-SA 4.0)
+      </a>
+      Lizenz
+    </p>
+
+    <p>Verwendetes Seiten-Theme <a href="https://github.com/executablebooks/sphinx-book-theme">Sphinx Book Theme</a> vom <a href="https://ebp.jupyterbook.org">Executable Book Project</a>.</p>
+  </div>
+</footer>
+</main>
+
+
+      </div>
+    </div>
+
+    <script src="../_static/js/index.js"></script>
+    
+  </body>
+</html>
