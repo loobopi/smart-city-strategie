@@ -8,8 +8,16 @@
 ---
 maxdepth: 2
 ---
-01_Ausgangslage-und-Herausforderungen/index.md
-02_Zielbilder/index.md
-03_Handlungsfelder/index.md
-04_Umsetzungsplan/index.md
+00_Vorwort-Stimmen-aus-der-Buergerschaft/index.md
+01_Intro/index.md
+02_Unsere-Ausgangslage-und-Herausforderungen/index.md
+03_Strategieprozess-und-Vorgehen/index.md
+04_Ulmer-Verstaendnis-einer-Smart-City/index.md
+05_Zielbilder-fuer-die-Zukunftsaufgaben/index.md
+06_Handlungsfelder/index.md
+07_Technisches-Grundlagenkapital/index.md
+08_Organisatorisches-Grundlagenkapitel/index.md
+10_Hintergrundmaterialien
+11_Literaturverzeichnis/index.md
+
 ```
