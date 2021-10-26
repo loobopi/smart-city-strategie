@@ -17,7 +17,7 @@ maxdepth: 2
 06_Handlungsfelder/index.md
 07_Technisches-Grundlagenkapital/index.md
 08_Organisatorisches-Grundlagenkapitel/index.md
-10_Hintergrundmaterialien
+10_Hintergrundmaterialien/index.md
 11_Literaturverzeichnis/index.md
 
 ```
