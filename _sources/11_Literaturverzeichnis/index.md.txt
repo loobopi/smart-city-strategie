@@ -1,3 +1,4 @@
+# Literaturverzeichnis
 Baedeker, C., Piwowar, J., Overath, P., & Themann, P. (2020). Forschungsstand, Zukunftsaufgaben und Handlungsfelder. Interner Zwischenbericht für AP1. In Im Projekt: Angebot für die wissenschaftliche Begleitung der Stadt Ulm im Rahmen der BMI Modellstadt. 
 
 Bauriedl, S., Baasch, S., & Winkler, M. (2008). Die klimagerechte europäische Stadt? Siedlungsstrukturen, städtischer Lebensstandard und Klimaveränderungen. Raumplanung, 67-71.
