@@ -8,7 +8,7 @@
 ---
 maxdepth: 2
 ---
-00_Vorwort-Stimmen-aus-der-Buergerschaft/index.md
+00_Vorwort_Stimmen-aus-der-Buergerschaft/index.md
 01_Intro/index.md
 02_Unsere-Ausgangslage-und-Herausforderungen/index.md
 03_Strategieprozess-und-Vorgehen/index.md
