@@ -44,7 +44,7 @@ Um den Wohlstand der Stadt aufrechtzuerhalten, braucht es eine starke lokale Wir
 ### Nachhaltige Stadtentwicklung, Klimaschutz und Kreislaufökonomie
 ![Abbildung_Nachhaltigkeit-und-Klimaschutz](Abbildung_Nachhaltigkeit-und-Klimaschutz.png) Die globalen und lokalen Entwicklungen zeigen immer deutlicher, dass Kommunen resilienter werden müssen, um sich an die Veränderungen der Zeit anpassen zu können. Die Digitalisierung bietet dabei zusätzliche Chancen, dies zu erreichen. Eine nachhaltige Werteorientierung ist dabei wegweisend, um krisenresilient zu werden. Nachhaltigkeit versteht sich als ganzheitlicher Ansatz, indem ein Gleichgewicht zwischen sozialen, ökologischen und ökonomischen Aspekten hergestellt wird. Dies ist für die Stadt Ulm bei der Stadtentwicklung richtungsweisend. Klimaschutz und die Unterstützung einer Kreislaufökonomie sind dafür unerlässlich.  
 
-Bei dieser Zukunftsaufgabe orientiert sich die Stadt an den nachhaltigen Entwicklungszielen der Vereinten Nationen (s. Abbildung 3 auf S. - 22 -), am Hauptgutachten „Unsere gemeinsame digitale Zukunft“ und den Prinzipien der Kreislaufökonomie basierend auf der Ellen McArthur Stiftung. [^11]
+Bei dieser Zukunftsaufgabe orientiert sich die Stadt an den nachhaltigen Entwicklungszielen der Vereinten Nationen, am Hauptgutachten „Unsere gemeinsame digitale Zukunft“ und den Prinzipien der Kreislaufökonomie basierend auf der Ellen McArthur Stiftung. [^11]
 
 ![Abbildung_Nachhaltige-Entwicklungsziele-der-Vereinten-Nationen](Abbildung_Nachhaltige-Entwicklungsziele-der-Vereinten-Nationen.png)
 
